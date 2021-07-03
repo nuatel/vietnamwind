@@ -1,0 +1,838 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="Ranh_Thanh_Hoa" id="Ranh_Thanh_Hoa">
+	<SimpleField name="dem_mean" type="float"></SimpleField>
+	<SimpleField name="dem_std" type="float"></SimpleField>
+</Schema>
+<Folder><name>Ranh_Thanh_Hoa</name>
+  <Placemark>
+	<name>5</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.4631107875279</SimpleData>
+		<SimpleData name="dem_std">0.375161017751948</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.791026941867,19.3376344599342 105.785885175955,19.3445171146206 105.7858880016,19.3451565278972 105.79601583227,19.3496166714056 105.79846191,19.34420013 105.798467290296,19.3441910951165 105.791026941867,19.3376344599342</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>6</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.32095019022624</SimpleData>
+		<SimpleData name="dem_std">0.340920643929061</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.791026941867,19.3376344599342 105.79072412301,19.3372259045185 105.785062852281,19.3356430745629 105.785885175955,19.3445171146206 105.791026941867,19.3376344599342</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>7</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.1527820163303</SimpleData>
+		<SimpleData name="dem_std">0.0937994514371869</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.799758584006,19.3223363631549 105.79072412301,19.3372259045185 105.791026941867,19.3376344599342 105.798467290296,19.3441910951165 105.80083466,19.34021568 105.8032608,19.33769798 105.80947876,19.33258057 105.811409,19.33148766 105.81371307,19.33127403 105.8144455,19.32982635 105.812657213827,19.328521095575 105.799758584006,19.3223363631549</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>18</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.308080572831</SimpleData>
+		<SimpleData name="dem_std">0.550910300721857</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.774262899478,19.3430459710321 105.776594450612,19.3474084691781 105.776929296835,19.3474840788504 105.7858880016,19.3451565278972 105.785885175955,19.3445171146206 105.785062852281,19.3356430745629 105.783446602339,19.3330628798762 105.776532243041,19.337832372296 105.774262899478,19.3430459710321</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>28</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.2858689252068</SimpleData>
+		<SimpleData name="dem_std">0.259885142965539</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.810960937799,19.436609458684 105.81122589,19.43515968 105.8129425,19.43334961 105.81347656,19.43076134 105.81426239,19.43005371 105.81351471,19.42677689 105.81272125,19.42510796 105.81092834,19.42528152 105.80931854,19.42744637 105.80805206,19.42754173 105.8068924,19.42918396 105.80514526,19.43011665 105.7989502,19.42670631 105.798320630794,19.4258622858944 105.796809042394,19.4281637972393 105.801613555073,19.4335476333571 105.810960937799,19.436609458684</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>29</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.13618334601907</SimpleData>
+		<SimpleData name="dem_std">0.124939571849405</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.808319073302,19.4519008921373 105.808886239683,19.4518341267869 105.81007385,19.44146347 105.810960937799,19.436609458684 105.801613555073,19.4335476333571 105.800137628686,19.4390428743221 105.808319073302,19.4519008921373</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>57</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.08334459577288</SimpleData>
+		<SimpleData name="dem_std">0.510602117806349</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.746653375107,19.4791239243074 105.762694865466,19.4818020893161 105.757344817812,19.4669035620708 105.749080761681,19.4726837710931 105.746653375107,19.4791239243074</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>91</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.4512570699056</SimpleData>
+		<SimpleData name="dem_std">0.164479933705685</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.891422050553,19.7302824214446 105.899114685332,19.7274505358963 105.8985672,19.72670174 105.89832306,19.72314644 105.89546967,19.72093773 105.89417267,19.72122192 105.89337158,19.72054482 105.89232635,19.72204971 105.88822937,19.72248459 105.886784467846,19.7235412013066 105.891422050553,19.7302824214446</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>99</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.15207109294954</SimpleData>
+		<SimpleData name="dem_std">0.0546920778704276</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.912370167434,19.8143677907018 105.911362911251,19.8165636644524 105.91540956515,19.8355278138301 105.921494502812,19.8370039279332 105.932979456747,19.8299685092807 105.93241882,19.8279438 105.93186951,19.82326698 105.931016783083,19.8147030563665 105.912370167434,19.8143677907018</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>180</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.18986975628397</SimpleData>
+		<SimpleData name="dem_std">0.462495021917648</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.624953618415,19.3901895076583 105.637619601061,19.3873507477928 105.642375691282,19.3729497002137 105.638324284491,19.3665615794795 105.63767242,19.36699867 105.63366699,19.36544228 105.63176727,19.3660183 105.63011169,19.37008095 105.62961578,19.37467384 105.62784576,19.38093567 105.62554169,19.38160133 105.62290192,19.38126945 105.620737199082,19.382335896339 105.624953618415,19.3901895076583</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>204</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.07947709825304</SimpleData>
+		<SimpleData name="dem_std">0.456609583202643</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.111366143338,20.4274090319797 105.133008078272,20.4294972174248 105.124694941732,20.4437072909104 105.11339648797,20.4376507581695 105.111366143338,20.4274090319797</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>261</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.03960626775568</SimpleData>
+		<SimpleData name="dem_std">0.0369812406941022</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.835720779475,19.6886715777196 105.837612108338,19.6900893635478 105.840028172222,19.690858308858 105.843623833801,19.6903989124818 105.847654549453,19.6889115291251 105.84615326,19.68574524 105.84412384,19.680933 105.838936014877,19.6671301977069 105.835720779475,19.6886715777196</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>262</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.04899177551269</SimpleData>
+		<SimpleData name="dem_std">0.0318653079931474</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.853349431212,19.7005929309255 105.85231018,19.69873047 105.847654549453,19.6889115291251 105.843623833801,19.6903989124818 105.849056624686,19.6976837655377 105.853349431212,19.7005929309255</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>263</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.02960713704427</SimpleData>
+		<SimpleData name="dem_std">0.0365371267483208</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.80443994284,19.5458580184543 105.811231029607,19.5640863399654 105.81438289769,19.5640463578939 105.81291199,19.5604248 105.81157684,19.55291176 105.810460263153,19.5448457717274 105.80443994284,19.5458580184543</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>283</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.10194333394368</SimpleData>
+		<SimpleData name="dem_std">0.068859028785569</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.933959032454,19.8649320445987 105.934608322538,19.8651803897184 105.942593334184,19.8582445535193 105.94072723,19.85445213 105.940548684688,19.8539870678086 105.933959032454,19.8649320445987</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>284</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.14438956124442</SimpleData>
+		<SimpleData name="dem_std">0.0625383103189947</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.921494502812,19.8370039279332 105.925311208433,19.8481670601129 105.930200277304,19.8513994492503 105.937982599573,19.847019852494 105.93558502,19.83937836 105.932979456747,19.8299685092807 105.921494502812,19.8370039279332</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>285</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.06932067871094</SimpleData>
+		<SimpleData name="dem_std">0.0599577093213372</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.930200277304,19.8513994492503 105.930165836709,19.8577375841958 105.933255873696,19.864691416677 105.933959032454,19.8649320445987 105.940548684688,19.8539870678086 105.93846893,19.84856987 105.937982599573,19.847019852494 105.930200277304,19.8513994492503</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>295</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.12022738986545</SimpleData>
+		<SimpleData name="dem_std">0.0503712718549473</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.88036640066,19.7436769175529 105.89497366657,19.7508021856091 105.903306796147,19.743775165108 105.891612873796,19.7362260992419 105.88036640066,19.7436769175529</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>296</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.18200055290671</SimpleData>
+		<SimpleData name="dem_std">0.05559922919993</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.891422050553,19.7302824214446 105.891612873796,19.7362260992419 105.903306796147,19.743775165108 105.90636409115,19.7438503773638 105.90561676,19.74266052 105.90174866,19.73528099 105.8998642,19.73129272 105.90078735,19.72973824 105.899114685332,19.7274505358963 105.891422050553,19.7302824214446</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>312</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.05487337979403</SimpleData>
+		<SimpleData name="dem_std">0.0282764309090738</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.887022555882,19.7625934221204 105.887748288622,19.7633851778248 105.890104805861,19.7640733012603 105.89497366657,19.7508021856091 105.88036640066,19.7436769175529 105.873723616857,19.7457536657803 105.887022555882,19.7625934221204</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>313</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.07558749584441</SimpleData>
+		<SimpleData name="dem_std">0.152285436155941</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.867016704913,19.7439864390615 105.86748233967,19.7441625847254 105.873723616857,19.7457536657803 105.88036640066,19.7436769175529 105.891612873796,19.7362260992419 105.891422050553,19.7302824214446 105.886784467846,19.7235412013066 105.88558197,19.72442055 105.8859787,19.72578239 105.88525391,19.72780418 105.88335419,19.72883415 105.8791275,19.72939873 105.875585918931,19.7277974808916 105.867016704913,19.7439864390615</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>371</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.57198035198709</SimpleData>
+		<SimpleData name="dem_std">0.611375827949583</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.703750895892,19.4890065391668 105.715824548985,19.4793665251801 105.717518284694,19.4821286160935 105.714343131975,19.4987895290664 105.710560598888,19.4990645002353 105.703750895892,19.4890065391668</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>376</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.09528255462646</SimpleData>
+		<SimpleData name="dem_std">0.42011876192194</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.693351625382,19.4812661055892 105.697777807413,19.4807568480191 105.700187026555,19.4641348954862 105.69675225426,19.4640340072379 105.691464838735,19.474001328876 105.693351625382,19.4812661055892</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>390</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.06154360563859</SimpleData>
+		<SimpleData name="dem_std">0.357869075221064</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.78742334755,19.2969402859086 105.785092240633,19.3122310761299 105.786692170574,19.3142702257445 105.799758584006,19.3223363631549 105.812657213827,19.328521095575 105.81226349,19.32823372 105.81385803,19.32809448 105.81495667,19.32476234 105.8181839,19.31636429 105.8154068,19.31530762 105.82019806,19.31456566 105.81912231,19.31435585 105.81903076,19.30960655 105.81441498,19.30849266 105.80883026,19.30026054 105.80643463,19.29440689 105.80622864,19.28871727 105.80542755,19.28669167 105.80107117,19.30200958 105.79030609,19.29736328 105.787431655723,19.2969125512584 105.78742334755,19.2969402859086</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>391</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.02659501700566</SimpleData>
+		<SimpleData name="dem_std">0.710343920211951</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.775200671865,19.3148658017218 105.778653704147,19.3145196779081 105.785092240633,19.3122310761299 105.78742334755,19.2969402859086 105.760236303772,19.2997164952971 105.75998688,19.30086136 105.758295384538,19.3016397420836 105.768579347949,19.3138354816617 105.775200671865,19.3148658017218</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>403</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.04199854532878</SimpleData>
+		<SimpleData name="dem_std">0.630920502389448</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.13646645099,19.7674312415755 105.13480377,19.77063751 105.13475037,19.7743454 105.13335419,19.77503586 105.13079834,19.77818871 105.131850291073,19.7826650115097 105.140728801095,19.7790149348798 105.137793804896,19.7674798898816 105.13646645099,19.7674312415755</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>416</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">7.15466117858887</SimpleData>
+		<SimpleData name="dem_std">0.876799458995833</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.192526720644,19.680788112379 105.214134041354,19.6638533837333 105.215796670198,19.6616691221254 105.218448023078,19.6534211250204 105.21617889,19.65442467 105.2124176,19.66057587 105.20964813,19.66312599 105.20555878,19.66440582 105.19902039,19.66827774 105.1943512,19.67203712 105.18769836,19.67478943 105.18318939,19.67819595 105.18310466487,19.6783383558529 105.192526720644,19.680788112379</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>571</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.74135173450817</SimpleData>
+		<SimpleData name="dem_std">0.902132829956462</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.60180322023,20.429475186527 104.607546538548,20.436035989439 104.617487314307,20.4353488182855 104.61748505,20.43532753 104.61750793,20.43515205 104.61638641,20.43290329 104.61598969,20.43255806 104.61520386,20.43228531 104.61499786,20.43213844 104.6149826,20.43199348 104.61504364,20.43151855 104.61500549,20.4311409 104.6146698,20.43039322 104.61431885,20.42957687 104.61433411,20.42879295 104.61399078,20.42809868 104.61367798,20.42747688 104.61326599,20.42664719 104.61249542,20.42592812 104.60903168,20.42270851 104.6085434,20.42233658 104.605440116409,20.4208476857851 104.60180322023,20.429475186527</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>585</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.01487523859197</SimpleData>
+		<SimpleData name="dem_std">0.264401825782521</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.800456859734,19.6400747676514 105.799317520265,19.6389089804024 105.79807178007,19.6346406071182 105.816917331761,19.6310445873775 105.814837705801,19.6397253005267 105.800456859734,19.6400747676514</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>625</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.21885563777043</SimpleData>
+		<SimpleData name="dem_std">0.0761882386009361</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.890414564447,19.7892450189872 105.89731086549,19.8016341626207 105.908452538064,19.8066933406475 105.930004574695,19.7751418759477 105.925255017103,19.7691871636673 105.901169743284,19.774293555361 105.890414564447,19.7892450189872</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>626</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.06376647949219</SimpleData>
+		<SimpleData name="dem_std">0.071185195882243</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.901169743284,19.774293555361 105.890104805861,19.7640733012603 105.887748288622,19.7633851778248 105.885991600188,19.7644251606734 105.877498854906,19.7748474296666 105.885128527022,19.788672727259 105.887864223075,19.7894238810031 105.890414564447,19.7892450189872 105.901169743284,19.774293555361</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>627</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.24496491422358</SimpleData>
+		<SimpleData name="dem_std">0.0706199659052464</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.903306796147,19.743775165108 105.89497366657,19.7508021856091 105.890104805861,19.7640733012603 105.901169743284,19.774293555361 105.925255017103,19.7691871636673 105.91124725,19.75162506 105.90636409115,19.7438503773638 105.903306796147,19.743775165108</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>640</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.11681671142578</SimpleData>
+		<SimpleData name="dem_std">0.509603381178038</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.768188207464,20.0301940214207 105.770161985694,20.034238740941 105.754090837414,20.0443177350937 105.750401123367,20.0322215534121 105.76253886506,20.0266473305092 105.768188207464,20.0301940214207</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>834</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.3242685953776</SimpleData>
+		<SimpleData name="dem_std">1.07211837200616</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.738333442926,19.3308947484527 105.750021857264,19.3378208788146 105.75221967764,19.3307748043455 105.752087502362,19.3296219549087 105.742572861865,19.3189163050415 105.74185181,19.32353592 105.73661041,19.31809807 105.733884567075,19.3186588363034 105.738333442926,19.3308947484527</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>845</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.00870167125355</SimpleData>
+		<SimpleData name="dem_std">0.374757411959947</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.738502971698,19.3783989091587 105.731493626648,19.3858066501959 105.735904299811,19.3898921284578 105.74326893172,19.3835409451967 105.738502971698,19.3783989091587</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>848</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.87234317555147</SimpleData>
+		<SimpleData name="dem_std">0.431203276209062</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.745571103079,19.3415329014417 105.727820000436,19.3343852739256 105.738333442926,19.3308947484527 105.750021857264,19.3378208788146 105.750036922217,19.3381121371307 105.747447217282,19.3411304845874 105.745571103079,19.3415329014417</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>915</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.16676213191106</SimpleData>
+		<SimpleData name="dem_std">0.537650832052692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.704448062557,19.4593674320019 105.704881997563,19.4639478813403 105.700187026555,19.4641348954862 105.69675225426,19.4640340072379 105.687410003381,19.4537835438228 105.702470937019,19.4484013871009 105.704448062557,19.4593674320019</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1037</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.44517861643145</SimpleData>
+		<SimpleData name="dem_std">1.22188708647235</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.089757061268,20.472199379349 105.09531862983,20.4813872220202 105.092095831527,20.4944332098648 105.078629364428,20.4855195296639 105.083403015451,20.4766315858676 105.089757061268,20.472199379349</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1175</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.74181874593099</SimpleData>
+		<SimpleData name="dem_std">0.765449044383479</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.107666173879,20.4725295736917 105.090865428625,20.4702798045207 105.089889113286,20.4706465719511 105.089757061268,20.472199379349 105.09531862983,20.4813872220202 105.098753469181,20.4804493361471 105.107666173879,20.4725295736917</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1177</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.30316560164742</SimpleData>
+		<SimpleData name="dem_std">1.08692943347973</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.107666173879,20.4725295736917 105.090865428625,20.4702798045207 105.106530393471,20.4596673229327 105.112464137484,20.4636366269425 105.11266418292,20.4663293215687 105.109773666902,20.471517263597 105.107666173879,20.4725295736917</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1210</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.19715643988715</SimpleData>
+		<SimpleData name="dem_std">1.18879043758803</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.599822920361,20.4306891820446 104.60180322023,20.429475186527 104.605440116409,20.4208476857851 104.6054306,20.42084312 104.60494995,20.42096138 104.60458374,20.42103958 104.60419464,20.42095947 104.60340881,20.42037582 104.60271454,20.42006493 104.60211945,20.41955948 104.60144043,20.4192276 104.60131836,20.41914368 104.60088348,20.41883659 104.6006546,20.41855049 104.59735107,20.41696167 104.58479309,20.41695023 104.5793457,20.41548538 104.57769012,20.41503906 104.57727814,20.41525078 104.575254616706,20.4162772236222 104.577811752009,20.4221913827458 104.599822920361,20.4306891820446</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1226</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.29767532348633</SimpleData>
+		<SimpleData name="dem_std">0.474993111365519</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.607546538548,20.436035989439 104.612141811875,20.4462422356419 104.612423371849,20.4463090253168 104.61251068,20.44620895 104.61281586,20.44589806 104.61296082,20.44556046 104.61303711,20.44521141 104.61303711,20.44465828 104.61301422,20.44394684 104.61306763,20.44370651 104.61318207,20.44337845 104.61339569,20.44311523 104.61373138,20.44290352 104.61426544,20.44278908 104.61485291,20.44266319 104.6157074,20.44257736 104.61646271,20.44236755 104.61745453,20.44204903 104.61794281,20.44176865 104.61801147,20.44159317 104.61782074,20.44123459 104.61732483,20.44053459 104.61713409,20.44011879 104.61706543,20.43984604 104.61708069,20.43916702 104.61719513,20.43878937 104.61742401,20.43855667 104.61764526,20.43826675 104.61781311,20.43794632 104.61791992,20.43761635 104.61785889,20.43732643 104.61768341,20.43709183 104.61756897,20.43676186 104.61753845,20.43651962 104.61764526,20.43618965 104.61763763,20.43590927 104.61752319,20.43568611 104.617487314307,20.4353488182855 104.607546538548,20.436035989439</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1229</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.95447540283203</SimpleData>
+		<SimpleData name="dem_std">0.36651629521158</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.607315680404,20.4500560314935 104.60111744376,20.4495749993986 104.597047810831,20.4548158551776 104.597703405899,20.4642883698821 104.600146500574,20.4646671448807 104.607291443271,20.4568940147626 104.607315680404,20.4500560314935</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1290</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.06646189970129</SimpleData>
+		<SimpleData name="dem_std">0.0391580929573335</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.819377906088,19.5823630824131 105.81904602,19.58045387 105.81682587,19.5765667 105.81343842,19.57341576 105.81344604,19.57187653 105.81357574,19.57040024 105.81568146,19.56724358 105.81438289769,19.5640463578939 105.811231029607,19.5640863399654 105.803798851855,19.5672037522695 105.801616843969,19.5711212137918 105.80412525374,19.579362233728 105.805251367059,19.5805582785276 105.819377906088,19.5823630824131</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1291</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.0636723836263</SimpleData>
+		<SimpleData name="dem_std">0.0489579982833976</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.821033620901,19.5918877699039 105.819377906088,19.5823630824131 105.805251367059,19.5805582785276 105.804662423466,19.5907103499404 105.821033620901,19.5918877699039</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1295</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.04125150044759</SimpleData>
+		<SimpleData name="dem_std">0.0621094239766459</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.804662423466,19.5907103499404 105.800690033338,19.5958120754821 105.822702842974,19.6014901594468 105.821033620901,19.5918877699039 105.804662423466,19.5907103499404</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1297</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.055029296875</SimpleData>
+		<SimpleData name="dem_std">0.142413410825714</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.816917331761,19.6310445873775 105.814837705801,19.6397253005267 105.818006809777,19.6453769454509 105.833677475775,19.6507040497572 105.83187103,19.64468193 105.82737732,19.62678337 105.826677841959,19.6238442746055 105.816917331761,19.6310445873775</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1301</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.00058029637192</SimpleData>
+		<SimpleData name="dem_std">0.0481892256194692</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.824311293237,19.6107429522486 105.822702842974,19.6014901594468 105.800690033338,19.5958120754821 105.799317786007,19.5966382811166 105.802212168231,19.6047041356296 105.803391236029,19.6055579703711 105.824311293237,19.6107429522486</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1361</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.28633178710937</SimpleData>
+		<SimpleData name="dem_std">0.0712893881558772</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.908452538064,19.8066933406475 105.912370167434,19.8143677907018 105.931016783083,19.8147030563665 105.93093872,19.81391907 105.93254089,19.80216217 105.93491364,19.79820442 105.93880463,19.79564857 105.93778992,19.79346275 105.93161011,19.79031754 105.93310547,19.78569984 105.93435669,19.78188324 105.9336853,19.77975655 105.930004574695,19.7751418759477 105.908452538064,19.8066933406475</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1364</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.01613540649414</SimpleData>
+		<SimpleData name="dem_std">0.0357843578716036</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.964589668149,19.9366353414883 105.968481144335,19.9457447187121 105.975784801813,19.9392889794035 105.96774292,19.93468285 105.9667511,19.93344688 105.965768631007,19.932616949196 105.964589668149,19.9366353414883</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1582</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.30675840377808</SimpleData>
+		<SimpleData name="dem_std">0.525646432835252</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.673536802762,19.5480100853037 105.673553278313,19.5487689533589 105.674136734191,19.5492667184444 105.684011487533,19.5478675067931 105.688131940429,19.5410203337813 105.686882366322,19.5345662766518 105.68417772038,19.5351410635122 105.673536802762,19.5480100853037</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1731</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.3915291922433</SimpleData>
+		<SimpleData name="dem_std">0.5264024775488</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.717900532404,19.4314712429747 105.727041752086,19.4277626830539 105.721038583795,19.4178402924615 105.715932368842,19.418282707095 105.698874782855,19.4296396620656 105.699639139253,19.4305280281406 105.717900532404,19.4314712429747</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1736</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.31256044827975</SimpleData>
+		<SimpleData name="dem_std">0.678882994058165</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.701960768144,19.4361782130357 105.699639139253,19.4305280281406 105.717900532404,19.4314712429747 105.715308049873,19.4364902567369 105.701960768144,19.4361782130357</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1994</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.24804830551147</SimpleData>
+		<SimpleData name="dem_std">0.429959022930405</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.117783589682,20.1161536060112 105.123482612604,20.1168349912577 105.126752273492,20.1191007420446 105.126688649963,20.1221398010488 105.114317264395,20.1212896793596 105.117783589682,20.1161536060112</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2107</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.3051731504243</SimpleData>
+		<SimpleData name="dem_std">0.99319955721404</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.672388099947,20.4708142436921 104.685648136412,20.474158732308 104.687736555673,20.4725699125026 104.682376803953,20.4569235785248 104.680210207722,20.4557224363023 104.671091098747,20.4653248931768 104.67237091,20.46665573 104.67113495,20.46879959 104.67083658361,20.468959774644 104.672388099947,20.4708142436921</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2150</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.24848556518555</SimpleData>
+		<SimpleData name="dem_std">0.981794678642789</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.868709957273,20.4949818056953 104.849990562548,20.4873716455611 104.859288466958,20.4763523982025 104.864721188139,20.4777383406305 104.870043601586,20.4941462730109 104.86964623035,20.4950776949679 104.868709957273,20.4949818056953</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2151</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.16471516002308</SimpleData>
+		<SimpleData name="dem_std">0.649242417517505</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.847180172483,20.5008687241725 104.848936864387,20.4876977294077 104.849990562548,20.4873716455611 104.868709957273,20.4949818056953 104.847180172483,20.5008687241725</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2181</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.02811098098755</SimpleData>
+		<SimpleData name="dem_std">0.952561812195947</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.747986492699,20.4965203031729 104.749954296158,20.4959900674651 104.74891775591,20.493470150575 104.735903404767,20.4830371615369 104.728373387351,20.4862782994293 104.747986492699,20.4965203031729</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2215</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.14660580952962</SimpleData>
+		<SimpleData name="dem_std">0.727151906311072</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.720966520701,20.488717292638 104.722162066986,20.4915877335496 104.741664285443,20.4996262078464 104.747986492699,20.4965203031729 104.728373387351,20.4862782994293 104.721856564391,20.4867648923373 104.720966520701,20.488717292638</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2276</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.02090407862808</SimpleData>
+		<SimpleData name="dem_std">0.0358580634078924</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.909082924523,19.839056003372 105.907184706849,19.8378091689526 105.906715878478,19.8373577283562 105.898917979326,19.8242198094103 105.911362911251,19.8165636644524 105.91540956515,19.8355278138301 105.909975895315,19.839121104879 105.909082924523,19.839056003372</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2283</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.34121813092913</SimpleData>
+		<SimpleData name="dem_std">0.586892428689406</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.944229416716,19.8921516395124 105.949522128606,19.8938040728449 105.9493103,19.89055252 105.95002747,19.8889122 105.9506073,19.88757515 105.954025419525,19.8882138694682 105.954651649351,19.8867802108374 105.956112931088,19.8807134603909 105.95391083,19.87797928 105.950672546443,19.8727530762759 105.94528118708,19.8743607131084 105.943465763038,19.8775740766903 105.944229416716,19.8921516395124</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2285</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.40082931518555</SimpleData>
+		<SimpleData name="dem_std">0</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.954651649351,19.8867802108374 105.954025419525,19.8882138694682 105.95734406,19.888834 105.95948792,19.89057159 105.965141889598,19.8906849662064 105.954651649351,19.8867802108374</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2286</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.30078887939453</SimpleData>
+		<SimpleData name="dem_std">0.0288880026736118</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.954651649351,19.8867802108374 105.965141889598,19.8906849662064 105.96538544,19.89068985 105.95983124,19.8853302 105.956112931088,19.8807134603909 105.954651649351,19.8867802108374</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2287</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.07686614990234</SimpleData>
+		<SimpleData name="dem_std">0.0478150929239583</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.934608322538,19.8651803897184 105.94528118708,19.8743607131084 105.950672546443,19.8727530762759 105.94610596,19.86538315 105.942593334184,19.8582445535193 105.934608322538,19.8651803897184</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2290</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.01108416389017</SimpleData>
+		<SimpleData name="dem_std">0.435554221164706</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.934954797137,19.8806401704377 105.943465763038,19.8775740766903 105.944229416716,19.8921516395124 105.933012708253,19.8996210664246 105.92790807967,19.8987696833679 105.934954797137,19.8806401704377</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2291</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.28844430106027</SimpleData>
+		<SimpleData name="dem_std">0.538474472798993</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.922473837058,19.8769968842926 105.925207958342,19.8717657967376 105.928588495764,19.8683510766407 105.933255873696,19.864691416677 105.933959032454,19.8649320445987 105.934608322538,19.8651803897184 105.94528118708,19.8743607131084 105.943465763038,19.8775740766903 105.934954797137,19.8806401704377 105.922473837058,19.8769968842926</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2293</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.05183483305432</SimpleData>
+		<SimpleData name="dem_std">0.424307342000445</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.916889040188,19.8809423162008 105.912635823251,19.8766307491308 105.914600473514,19.8642319590078 105.917227376185,19.8630606144659 105.925207958342,19.8717657967376 105.922473837058,19.8769968842926 105.916889040188,19.8809423162008</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2977</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.03253601074219</SimpleData>
+		<SimpleData name="dem_std">0.840878750045619</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.876726760964,20.5648430578084 104.85813252263,20.5791687269127 104.862641253002,20.5830148804615 104.879783519311,20.5737563460555 104.876726760964,20.5648430578084</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2978</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.02030662254051</SimpleData>
+		<SimpleData name="dem_std">0.451920387231726</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.879783519311,20.5737563460555 104.880540458589,20.5748600684338 104.874769078676,20.5915044019151 104.872984932221,20.5946745325691 104.872492652531,20.5947935463256 104.862664800646,20.583136158829 104.862641253002,20.5830148804615 104.879783519311,20.5737563460555</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>3010</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.01961693396935</SimpleData>
+		<SimpleData name="dem_std">0.592775315144841</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.537210893119,20.4167042603532 104.538129212426,20.4285957920564 104.543407166457,20.4272256233901 104.542541681033,20.4137231628729 104.537210893119,20.4167042603532</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>3014</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.95362091064453</SimpleData>
+		<SimpleData name="dem_std">0.672046707823808</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.537210893119,20.4167042603532 104.542541681033,20.4137231628729 104.542783017988,20.4129182240093 104.532019325509,20.4136040321379 104.53383636,20.41507721 104.53315735,20.41471863 104.53265381,20.41457939 104.53201294,20.41414452 104.53157043,20.41392708 104.53128815,20.41378784 104.53101349,20.41369629 104.528834510305,20.4141071829874 104.537210893119,20.4167042603532</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>3025</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.30853205141814</SimpleData>
+		<SimpleData name="dem_std">1.34848356654345</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.586635377603,20.4741440970276 104.58613029995,20.4745951121591 104.595802013736,20.487456535042 104.599991223798,20.4880935281233 104.608873575113,20.4805826979824 104.586963303798,20.4739067257834 104.586635377603,20.4741440970276</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>3026</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.87791403745994</SimpleData>
+		<SimpleData name="dem_std">1.19158787914453</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.586963303798,20.4739067257834 104.593010143244,20.4662496853523 104.597703405899,20.4642883698821 104.600146500574,20.4646671448807 104.615533333719,20.476737514723 104.61452163215,20.4781930147689 104.608873575113,20.4805826979824 104.586963303798,20.4739067257834</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>3031</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.18442658455141</SimpleData>
+		<SimpleData name="dem_std">1.10296548127644</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.685040746376,20.6086628231842 104.68491364,20.60511017 104.68496603222,20.6049374141555 104.682762619586,20.585710649313 104.677814105595,20.587019729379 104.673517442032,20.591332079015 104.670992436659,20.5984955986445 104.685040746376,20.6086628231842</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>3047</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.37670418875558</SimpleData>
+		<SimpleData name="dem_std">1.03894982035548</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.682762619586,20.585710649313 104.68496603222,20.6049374141555 104.686203,20.60085869 104.68408966,20.59695053 104.692397038684,20.5979493041039 104.697424489688,20.5874610073489 104.696863653139,20.5816986839229 104.691331799998,20.5777668921118 104.682762619586,20.585710649313</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>3063</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.74938495342548</SimpleData>
+		<SimpleData name="dem_std">1.47811142774791</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.583350369405,20.5445615718058 104.576673219021,20.5537557774675 104.575094371894,20.5578351065724 104.580675570538,20.5627650651571 104.593490383343,20.5565268302071 104.598239864285,20.5480229387691 104.598532944716,20.5450338022865 104.598268911813,20.5446689181688 104.583350369405,20.5445615718058</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>3064</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.58673858642578</SimpleData>
+		<SimpleData name="dem_std">1.22519219424964</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.582690187246,20.5295711421604 104.578495250257,20.5271506039051 104.570496080668,20.533449543512 104.576673219021,20.5537557774675 104.583350369405,20.5445615718058 104.582690187246,20.5295711421604</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>3507</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.01910872686477</SimpleData>
+		<SimpleData name="dem_std">0.368628802370995</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.234354099399,20.4665012591981 105.239761913658,20.4859284058205 105.226918552831,20.4794929879825 105.224816559348,20.4776630712762 105.234354099399,20.4665012591981</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>3508</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.4628407796224</SimpleData>
+		<SimpleData name="dem_std">0.642149313979467</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.223325777959,20.4773489516959 105.214462465183,20.4825828570136 105.214301112656,20.4855162884661 105.221439797594,20.4914708289044 105.226918552831,20.4794929879825 105.224816559348,20.4776630712762 105.223325777959,20.4773489516959</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>3792</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.24201936541863</SimpleData>
+		<SimpleData name="dem_std">1.11486714148233</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.888213009289,20.5485849375617 104.88583600032,20.5595297332805 104.876589756117,20.5640568562904 104.865697743717,20.5540064482329 104.86882756692,20.5442892200785 104.881753795015,20.5443155744509 104.888213009289,20.5485849375617</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>3808</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.30468515249399</SimpleData>
+		<SimpleData name="dem_std">0.775427858496251</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.666295389138,20.5140430689297 104.656554568178,20.506477865802 104.655977007977,20.5056736954536 104.658443361694,20.5024238641046 104.670768626821,20.4941474876904 104.683972926303,20.4985359065255 104.677821139902,20.5094006296696 104.666295389138,20.5140430689297</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>3812</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.27475452423096</SimpleData>
+		<SimpleData name="dem_std">1.1846459172614</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.698591861003,20.4836986503552 104.690998067675,20.4715540857449 104.697316006005,20.4674280774783 104.70428419584,20.474474755145 104.698591861003,20.4836986503552</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>3826</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.31491613388062</SimpleData>
+		<SimpleData name="dem_std">1.0705714970479</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.531440387225,20.5604296083821 104.530950985485,20.5429454513234 104.506475270769,20.5421056286452 104.50544286794,20.543386084003 104.50656128,20.5433445 104.51152039,20.54582787 104.51361084,20.54862785 104.51564026,20.54924965 104.51785278,20.54789162 104.52063751,20.5486145 104.52384186,20.54787636 104.52781677,20.55561447 104.52737427,20.55630493 104.52631378,20.55796051 104.52390289,20.56171036 104.525895727085,20.5657139812275 104.531440387225,20.5604296083821</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>3827</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.2608814239502</SimpleData>
+		<SimpleData name="dem_std">1.13453214926115</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.569726072945,20.5040198313697 104.574642420271,20.5210009236095 104.555493988208,20.5215637030378 104.554472078411,20.5203017654636 104.561293830682,20.5026652136455 104.569726072945,20.5040198313697</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>3833</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.08762032645089</SimpleData>
+		<SimpleData name="dem_std">1.02303436179912</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.602861999769,20.5008246098132 104.599991223798,20.4880935281233 104.608873575113,20.4805826979824 104.61452163215,20.4781930147689 104.614894797488,20.4850714680108 104.61071865764,20.5070068627407 104.602861999769,20.5008246098132</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>3906</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.08267688751221</SimpleData>
+		<SimpleData name="dem_std">0.765594606088125</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.774228223618,19.5325493725713 105.770106036721,19.5302238632255 105.770039226879,19.5300445997627 105.778802241325,19.51852230671 105.780905780099,19.5187070040252 105.786204328423,19.5210504564383 105.787060329879,19.522671912289 105.774228223618,19.5325493725713</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>3924</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.01570833646334</SimpleData>
+		<SimpleData name="dem_std">0.0304432722199141</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.919101364254,19.8511181075811 105.925311208433,19.8481670601129 105.921494502812,19.8370039279332 105.91540956515,19.8355278138301 105.909975895315,19.839121104879 105.910861746383,19.847390326867 105.919101364254,19.8511181075811</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>4341</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.79423713684082</SimpleData>
+		<SimpleData name="dem_std">0.704099300261276</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.728635076053,20.4745249375143 104.73946427406,20.4723735082757 104.74310925241,20.4742484251833 104.737902692225,20.47897356328 104.72766429953,20.4757759450716 104.728635076053,20.4745249375143</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>4344</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.82886123657227</SimpleData>
+		<SimpleData name="dem_std">0.73207489748044</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.728635076053,20.4745249375143 104.72953309657,20.4701591443967 104.735812821094,20.4678661474464 104.73946427406,20.4723735082757 104.728635076053,20.4745249375143</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>4345</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.74219555324978</SimpleData>
+		<SimpleData name="dem_std">0.673054458367564</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.72766429953,20.4757759450716 104.721370532967,20.4805196991111 104.721856564391,20.4867648923373 104.728373387351,20.4862782994293 104.735903404767,20.4830371615369 104.737902692225,20.47897356328 104.72766429953,20.4757759450716</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>4502</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.19915432400174</SimpleData>
+		<SimpleData name="dem_std">1.28463139704578</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.372730899391,19.6584962166238 105.372571085917,19.6478040932151 105.372534687136,19.6477812613043 105.363247737373,19.646524941509 105.359923061098,19.6515842033355 105.357883107132,19.6623240363264 105.366493143118,19.6619204324274 105.372730899391,19.6584962166238</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>4675</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#Ranh_Thanh_Hoa">
+		<SimpleData name="dem_mean">6.13823214444247</SimpleData>
+		<SimpleData name="dem_std">0.863507038272491</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.675927007252,20.5275805462717 104.666478767757,20.5233718779496 104.666462044286,20.5233524967478 104.666295389138,20.5140430689297 104.677821139902,20.5094006296696 104.676189923032,20.5276124956591 104.675927007252,20.5275805462717</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>

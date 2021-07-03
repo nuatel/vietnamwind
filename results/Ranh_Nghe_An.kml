@@ -1,0 +1,1684 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document id="root_doc">
+<Schema name="test" id="test">
+	<SimpleField name="dem_mean" type="float"></SimpleField>
+	<SimpleField name="dem_std" type="float"></SimpleField>
+</Schema>
+<Folder><name>test</name>
+  <Placemark>
+	<name>4</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.25948757595486</SimpleData>
+		<SimpleData name="dem_std">0.789916639777241</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.544859326858,19.4203795776569 105.544612368345,19.4209956714909 105.548318907776,19.4290462979725 105.55020142,19.42701149 105.556854598318,19.41885539321 105.544859326858,19.4203795776569</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>23</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.00479380289714</SimpleData>
+		<SimpleData name="dem_std">0.0556421026314579</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.742503224817,18.7727122235822 105.747039256815,18.780485814139 105.74769592,18.77976036 105.75483704,18.77206039 105.75883484,18.7680912 105.76074982,18.76458549 105.76273346,18.76309013 105.74749756,18.75392342 105.744525072248,18.7503929413025 105.742503224817,18.7727122235822</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>30</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">7.26427984237671</SimpleData>
+		<SimpleData name="dem_std">1.69649268829318</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.335375585572,19.0891416712403 104.359511708289,19.0907647981855 104.363446964486,19.0873273453073 104.36023016237,19.0744605634121 104.3580246,19.07439041 104.35396576,19.07353783 104.35034943,19.07268524 104.34947205,19.07268333 104.3490448,19.07356644 104.34394073,19.07600975 104.34136963,19.07578087 104.33866882,19.07554054 104.33721924,19.07711601 104.3370285,19.07732582 104.335879386156,19.0777237151826 104.335375585572,19.0891416712403</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>49</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.57747282805266</SimpleData>
+		<SimpleData name="dem_std">1.33513701947328</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.884468712914,18.7944752931942 104.884609352666,18.7855691108187 104.88144684,18.78467178 104.87282562,18.7865963 104.871428923999,18.7842674340417 104.858523457345,18.7998037626542 104.870587761454,18.8068075331029 104.884468712914,18.7944752931942</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>50</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.49154188368056</SimpleData>
+		<SimpleData name="dem_std">1.60034579061928</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.699329106525,18.8499243129189 104.670345874195,18.849249314559 104.66919708,18.85249901 104.6690979,18.85278702 104.666728672826,18.8546118258428 104.680355193625,18.8650381365909 104.699329106525,18.8499243129189</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>52</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.82429695129395</SimpleData>
+		<SimpleData name="dem_std">1.41499247282494</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.335060871502,19.0899681492084 104.318823814904,19.0860800985683 104.31735992,19.08783531 104.31465149,19.08774757 104.31159973,19.08873558 104.30970764,19.08979607 104.30915833,19.09101677 104.30670166,19.09247208 104.30661718181,19.0926158834956 104.315892332087,19.0997703736496 104.335058573647,19.0899803070756 104.335060871502,19.0899681492084</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>89</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.64789714288274</SimpleData>
+		<SimpleData name="dem_std">2.27947672022351</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.81064886059,18.7893304999796 104.822313938866,18.8125630009619 104.825459314691,18.8128236385987 104.846711137238,18.7994659900553 104.838347301697,18.7854127248447 104.82896423,18.78532982 104.81661987,18.78217888 104.81426239,18.78300095 104.809498618608,18.7825355627323 104.81064886059,18.7893304999796</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>94</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">7.32401864739913</SimpleData>
+		<SimpleData name="dem_std">1.85185334009678</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.846711137238,18.7994659900553 104.851292441767,18.8022411704631 104.851341909847,18.8022492686118 104.858523457345,18.7998037626542 104.871428923999,18.7842674340417 104.86940765,18.78089714 104.86306,18.78134918 104.86141205,18.77911186 104.85935211,18.77791023 104.85680389,18.77430153 104.85359955,18.77645493 104.85121155,18.77716827 104.84970093,18.77881813 104.84955597,18.78032303 104.84650421,18.78329086 104.84148407,18.78544044 104.838347301697,18.7854127248447 104.846711137238,18.7994659900553</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>113</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.56668684217665</SimpleData>
+		<SimpleData name="dem_std">0.94826840709812</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.710391884919,19.7055633675709 104.710405782007,19.7048780559129 104.709924116003,19.7045076472902 104.685960442124,19.7215116588409 104.68619537,19.72239876 104.69088745,19.72393227 104.69297791,19.72243881 104.69431305,19.7228756 104.69691467,19.72528839 104.69718933,19.72770309 104.698862123255,19.7297729335357 104.703159319284,19.7260777984054 104.710391884919,19.7055633675709</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>121</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">7.54217029008709</SimpleData>
+		<SimpleData name="dem_std">1.43724618165416</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.706902252411,19.6829254011849 104.726170448786,19.6801973540807 104.718209152486,19.7034887349297 104.710405782007,19.7048780559129 104.709924116003,19.7045076472902 104.703819616786,19.6983202003248 104.705116900872,19.6856484159403 104.706902252411,19.6829254011849</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>140</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.22054341634115</SimpleData>
+		<SimpleData name="dem_std">0.461478176772104</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.706334097989,19.1005246715544 105.721245879833,19.1181693758015 105.731033112552,19.1164094818399 105.73105621,19.11606026 105.73419952,19.11056328 105.73496246,19.10775375 105.73783875,19.1067524 105.73838806,19.10475731 105.73682404,19.10424614 105.73685455,19.1027832 105.73291779,19.1028595 105.72975922,19.10145187 105.7256012,19.10303497 105.7217865,19.10123444 105.71798706,19.09704781 105.71503448,19.09750175 105.7128067,19.09795952 105.71107483,19.09516335 105.70782573638,19.0941470797035 105.706334097989,19.1005246715544</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>207</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">7.56814105694111</SimpleData>
+		<SimpleData name="dem_std">1.87576327715948</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.802192028039,18.8098453002895 104.81064886059,18.7893304999796 104.809498618608,18.7825355627323 104.80434418,18.78203201 104.79932404,18.78255844 104.79485321,18.78419495 104.79337311,18.78783989 104.78883362,18.79060936 104.7876358,18.79397964 104.78785706,18.79657936 104.78442383,18.80223465 104.778176496637,18.8020938172638 104.776211792176,18.812321801812 104.781377727331,18.8161084349054 104.802192028039,18.8098453002895</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>220</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">7.37090066763071</SimpleData>
+		<SimpleData name="dem_std">1.74868519779403</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.678040607159,18.8741049861027 104.680355193625,18.8650381365909 104.666728672826,18.8546118258428 104.66296387,18.85751152 104.65950775,18.85817719 104.656517000282,18.8642892079967 104.65808409145,18.8719987904262 104.675030100653,18.8747227378002 104.678040607159,18.8741049861027</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>221</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">7.74524434407552</SimpleData>
+		<SimpleData name="dem_std">1.62429768897413</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.651113160754,18.8853689388375 104.65808409145,18.8719987904262 104.656517000282,18.8642892079967 104.65596771,18.86541176 104.65328217,18.86507225 104.65070343,18.86684418 104.64596558,18.86844254 104.6386795,18.86885452 104.63705444,18.86944771 104.63626099,18.86973953 104.63583374,18.87052155 104.63412476,18.87364769 104.6302948,18.87561798 104.62749481,18.87888145 104.62761688,18.87950325 104.62822723,18.88118172 104.62937164,18.88454056 104.62937164,18.88523483 104.62937164,18.88571167 104.629367007516,18.8858656894672 104.651113160754,18.8853689388375</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>223</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">8.58080630832248</SimpleData>
+		<SimpleData name="dem_std">1.31719084212019</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.452620301022,18.9956019821053 104.452894894347,18.9958055144109 104.473570952221,18.9879694979262 104.47356415,18.98795509 104.47246552,18.9877739 104.47132874,18.98758698 104.46192932,18.99127579 104.46052551,18.9892807 104.45765686,18.98918533 104.456033191125,18.9874908013533 104.452620301022,18.9956019821053</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>241</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.90495101265285</SimpleData>
+		<SimpleData name="dem_std">1.57250559552638</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.458100715392,19.0042295948999 104.459199896432,19.006607397613 104.480046174602,19.0289566978819 104.49117126397,19.0040431507057 104.49043274,19.0039196 104.48769379,19.00357628 104.48677826,19.00362206 104.48478699,19.0052681 104.48319244,19.00474167 104.48207092,19.00437164 104.4800415,18.99925423 104.47832489,18.99980736 104.47801208,18.99990845 104.47673035,18.99871635 104.47636414,18.99696922 104.47522736,18.99147797 104.474478283068,18.9898913344328 104.458100715392,19.0042295948999</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>242</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">7.30539885021391</SimpleData>
+		<SimpleData name="dem_std">1.16773826345624</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.452894894347,18.9958055144109 104.457979196567,19.0041293242727 104.458100715392,19.0042295948999 104.474478283068,18.9898913344328 104.473570952221,18.9879694979262 104.452894894347,18.9958055144109</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>244</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.17592540540193</SimpleData>
+		<SimpleData name="dem_std">0.970852498500868</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.4439284631,19.0158312313708 104.436955023132,19.0267377817154 104.469563153208,19.035536248466 104.471010084573,19.0349078562904 104.445517282512,19.0163349423106 104.4439284631,19.0158312313708</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>249</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">8.64825439453125</SimpleData>
+		<SimpleData name="dem_std">1.81768087073463</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.439170174428,19.0081784249616 104.449274274074,18.9950138230697 104.446139241132,18.9917412588868 104.44615936,18.99266434 104.44271851,18.99356079 104.44094086,18.99551773 104.43959045,18.99550247 104.43696594,18.99703979 104.43505859,18.99908066 104.43334198,19.00283241 104.43115234,19.00489616 104.429584087144,19.0053123509977 104.439170174428,19.0081784249616</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>250</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.71541268484933</SimpleData>
+		<SimpleData name="dem_std">1.45596981233205</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.430770272978,19.027620939012 104.435946394915,19.027361052555 104.436955023132,19.0267377817154 104.4439284631,19.0158312313708 104.440225257071,19.0092193949354 104.439170174428,19.0081784249616 104.429584087144,19.0053123509977 104.42768097,19.00581741 104.42679596,19.00451279 104.42604065,19.0046196 104.42269135,19.00633812 104.42643738,19.01548195 104.42455292,19.01662636 104.42421722,19.01781082 104.42251587,19.01920319 104.41982269,19.02041626 104.419606895965,19.0212431806666 104.430770272978,19.027620939012</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>269</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.23017992292132</SimpleData>
+		<SimpleData name="dem_std">0.788526676958492</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.506089611501,19.1421319076156 104.505026885518,19.1527536940022 104.507431865055,19.154043807195 104.522705675076,19.1495071167339 104.522229714214,19.141427417845 104.516800913954,19.1394081506274 104.506089611501,19.1421319076156</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>284</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.57585052122553</SimpleData>
+		<SimpleData name="dem_std">2.07555448172403</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.480046174602,19.0289566978819 104.479529972796,19.033033421976 104.479926468056,19.0332041496189 104.502679282044,19.0391822706427 104.511086470381,19.0366977890899 104.519726767684,19.0277540302228 104.504758905423,18.9976236541284 104.5018158,18.99858856 104.4979248,19.00225258 104.49739838,19.00388527 104.49604797,19.00368309 104.49519348,19.00426865 104.49246216,19.00425911 104.49117126397,19.0040431507057 104.480046174602,19.0289566978819</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>286</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.91503524780273</SimpleData>
+		<SimpleData name="dem_std">1.80904694944502</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.555322318977,19.0236337193585 104.560502659036,19.0303489621952 104.562960528415,19.0314182661637 104.563623805204,19.0306017792827 104.572460562496,19.0141379177586 104.556367964634,19.0059239336417 104.555322318977,19.0236337193585</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>287</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">8.11730739048549</SimpleData>
+		<SimpleData name="dem_std">1.6508223275193</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.563623805204,19.0306017792827 104.586537442183,19.0220318793671 104.587220734364,19.0230791127992 104.581808939102,19.0359678670798 104.564363006432,19.0341374781864 104.562960528415,19.0314182661637 104.563623805204,19.0306017792827</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>288</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">7.82928009033203</SimpleData>
+		<SimpleData name="dem_std">2.36837912785092</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.572460562496,19.0141379177586 104.578919001068,19.0073398572646 104.586064513326,19.0158185337635 104.586537442183,19.0220318793671 104.563623805204,19.0306017792827 104.572460562496,19.0141379177586</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>321</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.58744172127016</SimpleData>
+		<SimpleData name="dem_std">0.630510475843898</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.569372251318,19.6069253642877 104.551589926053,19.6021148371207 104.54412961999,19.6181213543841 104.54647064,19.61916161 104.54676819,19.61892509 104.54786682,19.61805725 104.5483551,19.61602211 104.55247498,19.61573219 104.55400085,19.61490631 104.55471039,19.61360741 104.55513,19.61344719 104.55522156,19.61319351 104.55610657,19.61210823 104.556427,19.61202621 104.55621338,19.61101532 104.55638123,19.61115074 104.55703735,19.61031914 104.55791473,19.61196518 104.55789185,19.61098289 104.56000519,19.60980415 104.56262207,19.61312103 104.56491852,19.6131382 104.56655884,19.61404228 104.567144091737,19.6139113473699 104.569372251318,19.6069253642877</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>322</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.5087158203125</SimpleData>
+		<SimpleData name="dem_std">0.347408749601932</SimpleData>
+	</SchemaData></ExtendedData>
+      <MultiGeometry><Polygon><outerBoundaryIs><LinearRing><coordinates>104.442737755655,19.6546698257506 104.428876135311,19.6713076357467 104.43125153,19.67125893 104.43247223,19.67220879 104.43379974,19.67191505 104.43530273,19.67255783 104.43772125,19.67176437 104.43895721,19.67184258 104.43912506,19.67267418 104.44484711,19.67258453 104.4451828,19.67167091 104.44593048,19.66923714 104.44641113,19.66720009 104.44709778,19.66466522 104.44713593,19.66433716 104.44683838,19.66372871 104.44734192,19.66254234 104.44745636,19.66155815 104.4475708,19.66091537 104.44758606,19.66082382 104.44625092,19.6611805 104.44567108,19.66069221 104.4446106,19.65895081 104.44515991,19.65796471 104.44625854,19.65615273 104.44780731,19.657341 104.44913483,19.65734291 104.452023934246,19.6533909538754 104.442737755655,19.6546698257506</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>104.420534270767,19.6813201994912 104.421266652937,19.6830660729215 104.42193604,19.67989731 104.42359161,19.6794529 104.42376709,19.67846298 104.42670441,19.67659569 104.426059630333,19.6746882271581 104.420534270767,19.6813201994912</coordinates></LinearRing></outerBoundaryIs></Polygon><Polygon><outerBoundaryIs><LinearRing><coordinates>104.423450075462,19.6882709775892 104.42305756,19.68534851 104.421456770904,19.6835192815355 104.423450075462,19.6882709775892</coordinates></LinearRing></outerBoundaryIs></Polygon></MultiGeometry>
+  </Placemark>
+  <Placemark>
+	<name>467</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.70764312744141</SimpleData>
+		<SimpleData name="dem_std">0.593775826650137</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.252004834905,18.6485303470591 105.248798700427,18.6637678429269 105.239470877778,18.654573250613 105.251570617231,18.6483462733278 105.252004834905,18.6485303470591</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>554</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">7.67761775425502</SimpleData>
+		<SimpleData name="dem_std">1.20462313228874</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.7445462426,18.8007611058117 104.73893738,18.80067825 104.73786163,18.80559731 104.73622131,18.80833244 104.73628235,18.80984879 104.73633575,18.81113434 104.73640442,18.81278419 104.73643494,18.81356049 104.73711395,18.81479645 104.73484802,18.81587601 104.73060608,18.81630707 104.72706604,18.81843376 104.72241974,18.8175602 104.72163391,18.8168087 104.7210083,18.81764221 104.72058105,18.81872749 104.72049713,18.81893349 104.72002411,18.82056236 104.71963501,18.8217144 104.7201004,18.82398415 104.719632886942,18.8271643793562 104.736545288207,18.8281601143905 104.748175333773,18.8061959088437 104.7445462426,18.8007611058117</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>555</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">7.1561131477356</SimpleData>
+		<SimpleData name="dem_std">1.43771342987531</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.748175333773,18.8061959088437 104.767153700772,18.8168122780201 104.776211792176,18.812321801812 104.778176496637,18.8020938172638 104.7778244,18.80208588 104.77436829,18.80090714 104.771492,18.79887199 104.76199341,18.7978363 104.75960541,18.79677391 104.75839233,18.79477882 104.75323486,18.79814529 104.7521286,18.79961777 104.74745941,18.80080414 104.7445462426,18.8007611058117 104.748175333773,18.8061959088437</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>556</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.58796246846517</SimpleData>
+		<SimpleData name="dem_std">1.53489040458896</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.902114884161,18.8137534681201 104.882007232655,18.826484848384 104.885023879955,18.8287870788938 104.905237493017,18.8147892494913 104.902114884161,18.8137534681201</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>558</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.79756743332435</SimpleData>
+		<SimpleData name="dem_std">1.73047078606254</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.918849078948,18.8539209719765 104.921161938192,18.8653189711001 104.931462026334,18.865126624743 104.942964607623,18.8513839462682 104.937536064685,18.8271399403221 104.926946859517,18.8240879930022 104.920929439678,18.8359398440274 104.918849078948,18.8539209719765</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>560</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.17856638055099</SimpleData>
+		<SimpleData name="dem_std">1.27345385508893</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.902393435375,18.8405615566617 104.918849078948,18.8539209719765 104.921161938192,18.8653189711001 104.920181768523,18.8659594884189 104.89776393521,18.8599890318523 104.897132122361,18.8565971262721 104.902393435375,18.8405615566617</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>573</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.1990751884353</SimpleData>
+		<SimpleData name="dem_std">1.74146329177131</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.884468712914,18.7944752931942 104.888404307958,18.8082927161239 104.893942586479,18.8076572392772 104.914175674418,18.7914726312789 104.913648407213,18.7896587572059 104.91362762,18.78966141 104.9129715,18.79055214 104.91099548,18.79032898 104.90940094,18.7867794 104.9078064,18.78707504 104.90470123,18.78627205 104.89744568,18.78738213 104.89498901,18.78569221 104.89437103,18.78544235 104.89335632,18.78503036 104.89126587,18.78420258 104.88613892,18.78600311 104.884609352666,18.7855691108187 104.884468712914,18.7944752931942</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>582</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.16314987909226</SimpleData>
+		<SimpleData name="dem_std">0.815844866123654</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.004428440433,18.7404217038694 105.006520943902,18.7443768142748 105.02844619311,18.7529782196097 105.032191070433,18.7541546343947 105.037678712681,18.7356167725285 105.037501476141,18.7351680801785 105.035948355455,18.7334367317643 105.03426361,18.73346519 105.03240967,18.73137665 105.0302887,18.73025322 105.02710724,18.73079681 105.0241394,18.73138237 105.0226059,18.73187065 105.02096558,18.73294258 105.01953888,18.73411369 105.01831055,18.73586845 105.01776123,18.73786163 105.0177002,18.7381115 105.01761627,18.73951149 105.02017212,18.74178314 105.01970673,18.74385643 105.02126312,18.7463398 105.02220917,18.74704742 105.02223969,18.74764824 105.0222702,18.74828911 105.02230835,18.74919701 105.02197266,18.74930573 105.0218277,18.74935341 105.02163696,18.74931335 105.02069092,18.74775124 105.01605988,18.74227715 105.0141983,18.7430439 105.01261902,18.74214745 105.01099396,18.73925972 105.01030731,18.74231911 105.00773621,18.74069786 105.00502777,18.74057579 105.004422709191,18.7402395402821 105.004428440433,18.7404217038694</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>611</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.69116383678508</SimpleData>
+		<SimpleData name="dem_std">1.44465826204253</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.793327666768,19.0136127174662 104.785038090438,19.0098387703427 104.772354213577,19.0154596426594 104.773411070833,19.0311622657668 104.789945837107,19.0285824093063 104.793327666768,19.0136127174662</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>622</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.02904446919759</SimpleData>
+		<SimpleData name="dem_std">0.922909726369859</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.665700161668,18.8917774855279 104.667576880213,18.891816508878 104.675030100653,18.8747227378002 104.65808409145,18.8719987904262 104.651113160754,18.8853689388375 104.653427141331,18.8882394277254 104.665700161668,18.8917774855279</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>623</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.23637127054149</SimpleData>
+		<SimpleData name="dem_std">1.51053192546506</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.59676057593,18.9106537680699 104.602417614402,18.914713465103 104.62049457217,18.9163579367716 104.629894961204,18.9066792866749 104.629389513045,18.9043003273742 104.594073521102,18.9044238499248 104.59676057593,18.9106537680699</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>625</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.64142733487216</SimpleData>
+		<SimpleData name="dem_std">1.09386522331018</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.646369390367,18.9179773515719 104.650665658285,18.9164323696495 104.653648000462,18.9147617477351 104.653427141331,18.8882394277254 104.651113160754,18.8853689388375 104.629367007516,18.8858656894672 104.62936401,18.88596535 104.62911987,18.88612556 104.629012369617,18.8865146448403 104.629389513045,18.9043003273742 104.629894961204,18.9066792866749 104.646369390367,18.9179773515719</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>626</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">8.69152055220171</SimpleData>
+		<SimpleData name="dem_std">1.87596409746657</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.594073521102,18.9044238499248 104.629389513045,18.9043003273742 104.629012369617,18.8865146448403 104.62878418,18.88734055 104.62792206,18.88799858 104.62258911,18.88986778 104.62094879,18.8917675 104.61849213,18.89185333 104.61637878,18.89401245 104.61009979,18.89326286 104.60743713,18.89428139 104.60723114,18.89432526 104.6071701,18.89437485 104.60521698,18.895895 104.60494995,18.89680481 104.59972382,18.89690971 104.59680176,18.89806938 104.59661102,18.8982296 104.59427643,18.90068245 104.59365845,18.90141106 104.592552865789,18.9019764334289 104.594073521102,18.9044238499248</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>629</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">8.07610833154966</SimpleData>
+		<SimpleData name="dem_std">2.39384854387326</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.552685752219,18.9797562778719 104.566113024275,18.9742457848173 104.5530961539,18.9469872783913 104.55092621,18.94792175 104.54853058,18.95196342 104.54755402,18.95266724 104.54588318,18.95387268 104.54449463,18.95881271 104.54344177,18.95915604 104.54460907,18.96086884 104.54506683,18.96502686 104.54412079,18.97059631 104.54357147,18.97382736 104.541941292891,18.9758156375144 104.552685752219,18.9797562778719</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>631</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.69180923853165</SimpleData>
+		<SimpleData name="dem_std">2.1498988892002</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.591197630553,18.9424990187173 104.606989576707,18.930425760489 104.616811731977,18.9337596624121 104.618076139226,18.9414402844977 104.61583918491,18.9437284348945 104.611181985012,18.9447039744541 104.589992078206,18.9443254932535 104.591197630553,18.9424990187173</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>634</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">8.65581844554228</SimpleData>
+		<SimpleData name="dem_std">1.69112480627941</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.570787442062,18.9390468516269 104.596086198612,18.9122131675093 104.59676057593,18.9106537680699 104.594073521102,18.9044238499248 104.592552865789,18.9019764334289 104.58863068,18.90398216 104.58422089,18.90245247 104.58177185,18.90279007 104.58010101,18.90154076 104.57959747,18.9011631 104.57820892,18.90376663 104.57872009,18.90579987 104.57823944,18.90941811 104.57794952,18.91158104 104.57552338,18.91428757 104.57350159,18.91509438 104.57314301,18.91592026 104.57279205,18.91663742 104.5723877,18.91745186 104.57244873,18.92036247 104.56815338,18.92454529 104.56574249,18.92978668 104.56544495,18.93046761 104.56512451,18.93119812 104.56530762,18.93276024 104.56472778,18.93452835 104.563931678833,18.9358848299363 104.570787442062,18.9390468516269</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>635</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.79400634765625</SimpleData>
+		<SimpleData name="dem_std">2.10809771463391</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.566113024275,18.9742457848173 104.573573113663,18.9738670267079 104.574624916411,18.9736323569857 104.578754805875,18.9446575756454 104.570787442062,18.9390468516269 104.563931678833,18.9358848299363 104.56150055,18.94002724 104.55848694,18.94071198 104.55794525,18.94117546 104.55734253,18.9417038 104.55699921,18.94200134 104.5569458,18.94265938 104.55506134,18.94420433 104.55447388,18.94639397 104.5530961539,18.9469872783913 104.566113024275,18.9742457848173</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>656</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.29471139346852</SimpleData>
+		<SimpleData name="dem_std">0.78621957081803</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.750931348389,18.9676712427975 104.754966237999,18.9786552268181 104.764824965376,18.9778813794405 104.768263006845,18.9635899269903 104.752674372405,18.9635765986531 104.750944293005,18.9655615462624 104.750931348389,18.9676712427975</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>678</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.94157391283886</SimpleData>
+		<SimpleData name="dem_std">1.20691038134986</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.384229730464,19.0607811964937 104.38384247,19.06081581 104.38230896,19.06318092 104.3780899,19.06504059 104.37443542,19.06919861 104.3718338,19.07009697 104.36677551,19.07410431 104.36605835,19.07376289 104.36512756,19.07428932 104.36358643,19.07449341 104.36102295,19.07448578 104.36023016237,19.0744605634121 104.363446964486,19.0873273453073 104.375761660394,19.0945094913542 104.387871166871,19.0781269729287 104.387813748917,19.0759983946401 104.386063506407,19.0645067235365 104.384229730464,19.0607811964937</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>680</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">7.63067029870075</SimpleData>
+		<SimpleData name="dem_std">1.50135872392143</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.395529995221,19.0585803676676 104.39427185,19.05943871 104.3927002,19.05936432 104.39001465,19.06054306 104.38899994,19.060112 104.38531494,19.0606842 104.384229730464,19.0607811964937 104.386063506407,19.0645067235365 104.401380753818,19.0708493602904 104.403084521833,19.0704483933087 104.404256525688,19.0639583779912 104.395529995221,19.0585803676676</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>689</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.07954846398305</SimpleData>
+		<SimpleData name="dem_std">1.53470441934459</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.570213981711,19.1051033659832 104.588717110566,19.1092100961977 104.594290462826,19.1010648361958 104.592364564436,19.0897597353616 104.588966768746,19.0874190238669 104.575867950256,19.0886611665435 104.570213981711,19.1051033659832</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>724</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.36404625844147</SimpleData>
+		<SimpleData name="dem_std">1.15188471937733</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.434173562389,19.055942550917 104.43440376851,19.0533914128343 104.429408966633,19.0475410487459 104.40392811726,19.0365127833608 104.4009552,19.03826714 104.40065765,19.03887939 104.40207672,19.03969193 104.40258026,19.04108238 104.40145111,19.04351425 104.40141448302,19.0440966306312 104.411570829,19.0569692884334 104.434173562389,19.055942550917</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>726</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.75943705240885</SimpleData>
+		<SimpleData name="dem_std">1.561840233839</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.429408966633,19.0475410487459 104.430770272978,19.027620939012 104.419606895965,19.0212431806666 104.4193573,19.02219963 104.41316986,19.03032303 104.40844727,19.03273773 104.40583801,19.03619385 104.40442657,19.03621864 104.40392811726,19.0365127833608 104.429408966633,19.0475410487459</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>727</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">7.43004746870561</SimpleData>
+		<SimpleData name="dem_std">1.53794324751146</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.404256525688,19.0639583779912 104.41182931227,19.0646654134457 104.411570829,19.0569692884334 104.40141448302,19.0440966306312 104.40114594,19.04836655 104.40380859,19.05106735 104.40349579,19.05433846 104.39981079,19.05743408 104.39598846,19.05826759 104.395529995221,19.0585803676676 104.404256525688,19.0639583779912</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>738</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.48032414362981</SimpleData>
+		<SimpleData name="dem_std">1.80440649713225</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.534824961862,19.0158914773898 104.529372894666,19.025024180715 104.538412543692,19.0387492816285 104.539105302296,19.0388680841387 104.560502659036,19.0303489621952 104.555322318977,19.0236337193585 104.536587737162,19.015979894905 104.534824961862,19.0158914773898</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>740</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">8.77380845811632</SimpleData>
+		<SimpleData name="dem_std">1.78508389079223</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.529350600364,19.0040320519067 104.534839541517,18.9978605038434 104.539187666264,18.9774494354026 104.53710938,18.97858429 104.53625488,18.9809761 104.53270721,18.98263359 104.52946472,18.98560715 104.52695465,18.98323059 104.52067566,18.98011971 104.51721191,18.98200607 104.51291656,18.98135757 104.50919342,18.98538017 104.50798035,18.98902321 104.50537109,18.99254608 104.50505066,18.99476433 104.50576019,18.99729538 104.504978483059,18.9975516649469 104.529350600364,19.0040320519067</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>741</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">9.07412255328635</SimpleData>
+		<SimpleData name="dem_std">1.38102340639019</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.601534416432,19.0139964112218 104.586064513326,19.0158185337635 104.586537442183,19.0220318793671 104.587220734364,19.0230791127992 104.597107277326,19.0285658614144 104.601534416432,19.0139964112218</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>744</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.08374375563401</SimpleData>
+		<SimpleData name="dem_std">1.02414762093635</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.617092100413,19.0084052211606 104.605818436281,19.0361918813473 104.604646077366,19.0365932937366 104.600133031961,19.036389726018 104.597107277326,19.0285658614144 104.601534416432,19.0139964112218 104.610188308802,19.0057639534627 104.616398354683,19.0079667383464 104.617092100413,19.0084052211606</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>903</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.08829157902644</SimpleData>
+		<SimpleData name="dem_std">0.837389779506059</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.052709993179,19.1173129896649 105.066274186236,19.1159356945605 105.075643046103,19.1219288661223 105.077402672528,19.1239636119697 105.073957654159,19.1338870732039 105.071156066514,19.1369546127808 105.0562060861,19.1364917753752 105.053315458572,19.1303742543064 105.052709993179,19.1173129896649</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1218</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.15535879135132</SimpleData>
+		<SimpleData name="dem_std">0.965379029475872</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.118850830591,19.5345867159781 104.121499497142,19.5345217324503 104.132304447456,19.5247693875822 104.109988228053,19.5162527239298 104.10745239,19.51745987 104.107442812222,19.5174756284924 104.118850830591,19.5345867159781</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1222</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">7.06382853190104</SimpleData>
+		<SimpleData name="dem_std">1.28973165378364</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.699329106525,18.8499243129189 104.702125545465,18.8487254986419 104.704633265811,18.8370876501899 104.70433044,18.83723831 104.70381927,18.83931732 104.7027359,18.83953476 104.70224762,18.83889961 104.69940948,18.84013557 104.69487762,18.83844185 104.69275665,18.83631325 104.68980408,18.83530045 104.68560791,18.83512306 104.68546295,18.83511734 104.68534851,18.83512688 104.6819458,18.8375473 104.67990875,18.83795929 104.67682648,18.83744431 104.67368317,18.840868 104.67321014,18.84287262 104.66997528,18.84483719 104.66899872,18.84542847 104.67050171,18.84872246 104.67050171,18.84880447 104.67045593,18.84893799 104.670345874195,18.849249314559 104.699329106525,18.8499243129189</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1223</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">8.77509099786932</SimpleData>
+		<SimpleData name="dem_std">1.21071664279396</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.449274274074,18.9950138230697 104.452620301022,18.9956019821053 104.456033191125,18.9874908013533 104.45363617,18.98498917 104.44857788,18.98562431 104.44743347,18.98914528 104.44611359,18.99056435 104.446139241132,18.9917412588868 104.449274274074,18.9950138230697</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1232</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.96502203690378</SimpleData>
+		<SimpleData name="dem_std">1.32194420586341</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>103.986656472487,19.3911809530145 103.984785870579,19.3737292739284 103.975336678733,19.3777208100684 103.973947817366,19.393728068434 103.97431183,19.39413261 103.97522736,19.3980217 103.977607820273,19.3983880003234 103.986656472487,19.3911809530145</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1233</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.2191162109375</SimpleData>
+		<SimpleData name="dem_std">1.02693972063959</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>103.994188083983,19.3886785544469 103.986656472487,19.3911809530145 103.977607820273,19.3983880003234 103.984375,19.39942932 103.98674011,19.39879417 103.98863983,19.39930534 103.99273682,19.40519714 103.99705505,19.40532112 104.00219727,19.4042244 104.00427275146,19.4031399705753 103.994188083983,19.3886785544469</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1236</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.16508731326541</SimpleData>
+		<SimpleData name="dem_std">1.38539567344948</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.006791596572,19.3686893884207 103.999968271993,19.3608121241821 103.992380315349,19.3612365726616 103.984785870579,19.3737292739284 103.986656472487,19.3911809530145 103.994188083983,19.3886785544469 104.006841097874,19.377309635347 104.006791596572,19.3686893884207</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1237</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">7.27854316179142</SimpleData>
+		<SimpleData name="dem_std">1.42658629148441</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.02949149433,19.4146384471109 104.0309906,19.41461945 104.03340912,19.41599274 104.03392029,19.41805267 104.03559875,19.41841125 104.03669739,19.4195919 104.04145813,19.42049789 104.048127033452,19.4244465890053 104.050140127502,19.4048872320822 104.04970797881,19.4038277992556 104.034923163946,19.406081422932 104.02949149433,19.4146384471109</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1243</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.34320576985677</SimpleData>
+		<SimpleData name="dem_std">0.886734830968323</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.136163115996,19.4188196045123 104.125060401716,19.4176589705548 104.112717970478,19.4053395748693 104.121424064297,19.3888392252788 104.122101255528,19.3877922342504 104.140418589778,19.4114642275969 104.136163115996,19.4188196045123</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1244</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">7.16236267089844</SimpleData>
+		<SimpleData name="dem_std">1.13385764365318</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.101860416894,19.40476513706 104.099315222561,19.4026907253263 104.077769256035,19.404384665029 104.081261672898,19.416124188304 104.089494896046,19.4188262555007 104.101860416894,19.40476513706</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1299</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.29504590156751</SimpleData>
+		<SimpleData name="dem_std">1.30873964771707</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.956551154117,18.7617763143214 104.968440019897,18.7521545618324 104.965970869385,18.7430530484402 104.946045614621,18.7454715308432 104.956551154117,18.7617763143214</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1300</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.69301309390944</SimpleData>
+		<SimpleData name="dem_std">1.33965163536284</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.976807277563,18.7549343536131 105.004428440433,18.7404217038694 105.004422709191,18.7402395402821 104.99770355,18.73650551 104.996315,18.73788452 104.99489594,18.73929596 104.99306488,18.74337006 104.9912796,18.74440193 104.98612976,18.74302673 104.98459625,18.74100685 104.98415375,18.7407589 104.98397064,18.74061966 104.98202515,18.73912048 104.98194885,18.73906136 104.96846771,18.74286842 104.96674347,18.74178314 104.965962897725,18.7418356494403 104.965970869385,18.7430530484402 104.968440019897,18.7521545618324 104.976807277563,18.7549343536131</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1301</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">8.90608024597168</SimpleData>
+		<SimpleData name="dem_std">0.625006277268894</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.946045614621,18.7454715308432 104.965970869385,18.7430530484402 104.965962897725,18.7418356494403 104.96294403,18.74203873 104.96178436,18.7407589 104.95739746,18.73971367 104.95018768,18.74053192 104.9464035,18.74019241 104.94506073,18.73895264 104.94268036,18.73865891 104.94086456,18.74126244 104.940916358648,18.741862206959 104.946045614621,18.7454715308432</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1303</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.88016301935369</SimpleData>
+		<SimpleData name="dem_std">1.71569520422472</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.946634404882,18.7730681170154 104.947789351126,18.7729559756238 104.952687189449,18.7692520380652 104.956551154117,18.7617763143214 104.946045614621,18.7454715308432 104.940916358648,18.741862206959 104.94115448,18.74461937 104.94129181,18.74617386 104.94070435,18.74920082 104.93875885,18.75416565 104.93703461,18.75486565 104.93552399,18.75749016 104.93583679,18.758564 104.93621826,18.75872421 104.93643951,18.75901222 104.93729401,18.75953484 104.93738556,18.76011467 104.93801117,18.76082039 104.93937683,18.76364326 104.93937683,18.76568604 104.93856812,18.76776314 104.93896484,18.77035141 104.9388376764,18.7708196564153 104.946634404882,18.7730681170154</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1307</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.53292724609375</SimpleData>
+		<SimpleData name="dem_std">1.60099190026882</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.014704980211,18.7764311678689 105.02844619311,18.7529782196097 105.006520943902,18.7443768142748 105.004522852724,18.7672603837338 105.007240579526,18.7754190624334 105.014704980211,18.7764311678689</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1347</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.3761714812248</SimpleData>
+		<SimpleData name="dem_std">2.78414942243878</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.645812274195,18.9195239656842 104.646369390367,18.9179773515719 104.629894961204,18.9066792866749 104.62049457217,18.9163579367716 104.621353386591,18.9277527759553 104.635367931994,18.9303485173692 104.645812274195,18.9195239656842</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1352</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.36443627398947</SimpleData>
+		<SimpleData name="dem_std">1.82604652200068</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.588056584366,18.9772724224392 104.597531826065,18.9679882477788 104.597093198835,18.9560983557822 104.589486307804,18.9447160382702 104.578754805875,18.9446575756454 104.574624916411,18.9736323569857 104.582662978322,18.9785997114105 104.588056584366,18.9772724224392</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1382</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.22181091308594</SimpleData>
+		<SimpleData name="dem_std">1.33071478114412</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.337154419464,19.1255855971876 104.330672601095,19.107814943427 104.319845023512,19.1094588455435 104.318264278524,19.1150834569742 104.336047912642,19.1275237363268 104.337154419464,19.1255855971876</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1401</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.27331690041416</SimpleData>
+		<SimpleData name="dem_std">1.41592816025123</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.590374036854,19.1162337846272 104.588717110566,19.1092100961977 104.570213981711,19.1051033659832 104.566272529611,19.1053036905106 104.562337066615,19.1346251576372 104.583817808487,19.1248193890824 104.590374036854,19.1162337846272</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1412</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.80501641167535</SimpleData>
+		<SimpleData name="dem_std">1.37966160291796</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.537072407877,19.1263543410045 104.537595251744,19.1638431814845 104.522705675076,19.1495071167339 104.522229714214,19.141427417845 104.533295599463,19.126996331856 104.535088988502,19.125972174774 104.537072407877,19.1263543410045</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1416</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.30941607501056</SimpleData>
+		<SimpleData name="dem_std">1.60356688369592</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.534139236381,19.0632199876295 104.52979269282,19.0469596624349 104.538412543692,19.0387492816285 104.539105302296,19.0388680841387 104.546831786379,19.0531439032326 104.534139236381,19.0632199876295</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1417</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">7.26772577622358</SimpleData>
+		<SimpleData name="dem_std">1.49037771206575</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.564539722687,19.0541023227799 104.564363006432,19.0341374781864 104.562960528415,19.0314182661637 104.560502659036,19.0303489621952 104.539105302296,19.0388680841387 104.546831786379,19.0531439032326 104.564539722687,19.0541023227799</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1452</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.16740085767663</SimpleData>
+		<SimpleData name="dem_std">1.59243719490184</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.305987216756,19.1258992734471 104.318264278524,19.1150834569742 104.319845023512,19.1094588455435 104.315892332087,19.0997703736496 104.30661718181,19.0926158834956 104.30518341,19.09505653 104.30614471,19.09932327 104.30506897,19.10118484 104.30471802,19.10453033 104.3017807,19.10968399 104.3021698,19.11119843 104.30144501,19.11244392 104.29937744,19.1133709 104.29865265,19.11306 104.29555511,19.11174202 104.29430389,19.11292458 104.292661298569,19.1144801998397 104.305987216756,19.1258992734471</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1453</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.20129636254641</SimpleData>
+		<SimpleData name="dem_std">2.28204514323319</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.273886367067,19.1237696564105 104.28715517845,19.1423329805073 104.2968118928,19.1428783643471 104.307209335586,19.1408819986342 104.307423265561,19.1403251326042 104.305987216756,19.1258992734471 104.292661298569,19.1144801998397 104.29016113,19.11684799 104.28911591,19.11697197 104.28896332,19.11725235 104.28754425,19.11842155 104.28594971,19.11875153 104.28427124,19.11891365 104.28268433,19.11920738 104.28193665,19.11971474 104.28138733,19.11972618 104.273739444513,19.1198947202214 104.273886367067,19.1237696564105</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1458</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.51180013020833</SimpleData>
+		<SimpleData name="dem_std">1.18722992674689</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.555545503418,18.9914225197721 104.543127916632,18.9990285894519 104.549207325419,19.0055223767626 104.556198060704,19.0051963652148 104.559636580125,18.9978826280836 104.555545503418,18.9914225197721</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1461</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.19858257587139</SimpleData>
+		<SimpleData name="dem_std">1.86022717046107</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.552685752219,18.9797562778719 104.541941292891,18.9758156375144 104.54174805,18.97605133 104.539187666264,18.9774494354026 104.534839541517,18.9978605038434 104.543127916632,18.9990285894519 104.555545503418,18.9914225197721 104.552685752219,18.9797562778719</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1463</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.55116565410907</SimpleData>
+		<SimpleData name="dem_std">1.68148804182463</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.555545503418,18.9914225197721 104.552685752219,18.9797562778719 104.566113024275,18.9742457848173 104.573573113663,18.9738670267079 104.566015581313,18.9981445333954 104.559636580125,18.9978826280836 104.555545503418,18.9914225197721</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1467</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.05685551961263</SimpleData>
+		<SimpleData name="dem_std">0.967596497622333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.633948911071,19.0303473449124 104.626102601792,19.0433171670416 104.62892269417,19.0484325979634 104.642005684885,19.0503767132702 104.647046958481,19.0294340993398 104.642183141847,19.0276127642835 104.633948911071,19.0303473449124</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1520</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.23074423300253</SimpleData>
+		<SimpleData name="dem_std">0.292005136816455</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.647861960678,19.3363606266558 105.642767585151,19.3468187488856 105.646542513645,19.3531292813842 105.64894104,19.3536129 105.65285492,19.35321617 105.65348053,19.34651756 105.65559387,19.34261703 105.65681458,19.34171677 105.6585083,19.34135437 105.66165161,19.34262085 105.66303253,19.34243965 105.66790009,19.34020805 105.66780336367,19.3373678687569 105.647861960678,19.3363606266558</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>1893</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.23788895145539</SimpleData>
+		<SimpleData name="dem_std">1.33308267429504</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.16448627378,19.8840238654116 105.171286087888,19.9007757773206 105.17128754,19.90076828 105.17305756,19.89803886 105.17713928,19.89585495 105.17694092,19.89196587 105.17834473,19.88727951 105.17872496987,19.8825046600249 105.16790308422,19.8769011385056 105.16448627378,19.8840238654116</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2080</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.5268659920528</SimpleData>
+		<SimpleData name="dem_std">1.20544538472092</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.130874315521,18.7251216022271 105.138176268952,18.7161760763567 105.138353498138,18.7157626691594 105.135287933022,18.7109696907471 105.13486481,18.711483 105.13366699,18.71478462 105.12638092,18.71296883 105.12445831,18.71347237 105.12267303,18.71121216 105.118815327686,18.7127652740984 105.117316462331,18.7208698988394 105.130874315521,18.7251216022271</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2086</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.33290826706659</SimpleData>
+		<SimpleData name="dem_std">0.903029606956336</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.079314402969,18.7308198611191 105.094127875379,18.7046472959421 105.0925293,18.70449066 105.08785248,18.70780563 105.08444214,18.70865631 105.08226013,18.70812607 105.07710266,18.70498848 105.07352448,18.7044735 105.0730896,18.70331573 105.070987461278,18.7052685058526 105.079314402969,18.7308198611191</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2170</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.05998140222886</SimpleData>
+		<SimpleData name="dem_std">0.96208560161799</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.538230928615,18.7561621387394 105.523326441189,18.7478832605106 105.516245643338,18.7525243575373 105.524951682728,18.7651828852878 105.537568431958,18.7586895832161 105.538230928615,18.7561621387394</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2178</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.07164497375488</SimpleData>
+		<SimpleData name="dem_std">0.554168338204937</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.552733990856,18.7450069407887 105.561847730945,18.7398077299168 105.563257526038,18.7416188309036 105.555543749067,18.7505152189273 105.554807260947,18.7509264594111 105.551675743686,18.7514812195229 105.552733990856,18.7450069407887</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2179</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.07044982910156</SimpleData>
+		<SimpleData name="dem_std">0.668798373350689</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.550152107686,18.7347214979018 105.560594247766,18.7352807116508 105.561847730945,18.7398077299168 105.552733990856,18.7450069407887 105.550152107686,18.7347214979018</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2229</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.00941043429905</SimpleData>
+		<SimpleData name="dem_std">1.25017302480701</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.114927444807,19.6183920058885 104.114240655969,19.6185853387449 104.100041511067,19.6354164214243 104.116750337619,19.640108034265 104.12005746453,19.6215482916251 104.114927444807,19.6183920058885</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2243</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.44246299594056</SimpleData>
+		<SimpleData name="dem_std">1.92667272211268</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>103.983192572103,19.2431612777703 103.98165894,19.24397087 103.97714233,19.24376678 103.97203064,19.24553871 103.96959686,19.24677467 103.96852112,19.24732018 103.96468353,19.25104141 103.9622879,19.25112534 103.958353498826,19.2544665844208 103.962965290478,19.2624725991898 103.96381819682,19.263058146092 103.969353442479,19.2615575388475 103.982891564904,19.2542801765062 103.98646367613,19.2480524738966 103.983192572103,19.2431612777703</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2244</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.05312983194987</SimpleData>
+		<SimpleData name="dem_std">1.55795510218187</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.002252118802,19.2518884929412 104.001812496646,19.2493238423993 103.995417508839,19.2369178814131 103.99449921,19.23830605 103.99187469,19.23914909 103.98911285,19.24003601 103.983192572103,19.2431612777703 103.98646367613,19.2480524738966 103.992874650949,19.2514305455914 104.002252118802,19.2518884929412</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2260</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.7909170968192</SimpleData>
+		<SimpleData name="dem_std">0.886427791507176</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.030161199876,19.3892913309197 104.009224120645,19.3805750294777 104.011728780896,19.4001058320936 104.029863762555,19.3932191133766 104.030161199876,19.3892913309197</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2262</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">7.46846516927083</SimpleData>
+		<SimpleData name="dem_std">0.885165301984969</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.034923163946,19.406081422932 104.029863762555,19.3932191133766 104.011728780896,19.4001058320936 104.010918809453,19.402199364931 104.01409912,19.40215111 104.01509857,19.40345001 104.01495361,19.40557671 104.0157547,19.40704155 104.01899719,19.40690422 104.02062988,19.40849304 104.02235413,19.41436958 104.02355957,19.41612434 104.02838135,19.41577339 104.02933502,19.41464043 104.02949149433,19.4146384471109 104.034923163946,19.406081422932</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2263</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.63109160632622</SimpleData>
+		<SimpleData name="dem_std">1.41745837916228</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.035781639128,19.3677519288332 104.05372303054,19.3852135487721 104.031442929117,19.3878207718595 104.032228936986,19.3687809710225 104.035781639128,19.3677519288332</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2264</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.51433475681993</SimpleData>
+		<SimpleData name="dem_std">1.21552529167466</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.05372303054,19.3852135487721 104.054257418584,19.3853662893291 104.051439952652,19.4014307204382 104.04970797881,19.4038277992556 104.034923163946,19.406081422932 104.029863762555,19.3932191133766 104.030161199876,19.3892913309197 104.031442929117,19.3878207718595 104.05372303054,19.3852135487721</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2265</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.16713194916214</SimpleData>
+		<SimpleData name="dem_std">1.68737664667856</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.032228936986,19.3687809710225 104.023965217027,19.3657254885517 104.006791596572,19.3686893884207 104.006841097874,19.377309635347 104.009224120645,19.3805750294777 104.030161199876,19.3892913309197 104.031442929117,19.3878207718595 104.032228936986,19.3687809710225</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2266</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.02630986394109</SimpleData>
+		<SimpleData name="dem_std">1.37524369691512</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.119281765194,19.3096924298726 104.123276911271,19.2924004649286 104.141877465214,19.2849721423276 104.14854646967,19.2919813214914 104.133870253001,19.3099676464048 104.119281765194,19.3096924298726</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2267</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.00973773824758</SimpleData>
+		<SimpleData name="dem_std">1.30799145292804</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.154535179107,19.3736124356883 104.16896163559,19.3608006502154 104.155886266446,19.3527373037394 104.150386921228,19.3723553437101 104.154535179107,19.3736124356883</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2280</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.33172377100531</SimpleData>
+		<SimpleData name="dem_std">0.78752425521642</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.074317965865,19.3866321372671 104.075847440411,19.4030661797079 104.077769256035,19.404384665029 104.099315222561,19.4026907253263 104.095516934304,19.3901469632883 104.074317965865,19.3866321372671</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2287</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.1469722438503</SimpleData>
+		<SimpleData name="dem_std">0.864081004614844</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.103622500001,19.4715483715112 104.095819898998,19.4642832297339 104.081024471219,19.4649758800373 104.08159637,19.46664238 104.08603668,19.46673203 104.085289,19.46938515 104.08721161,19.46949196 104.08499146,19.47076988 104.08575439,19.47468185 104.08667755,19.47558975 104.08529663,19.47785759 104.08550262,19.47962952 104.09273529,19.48870659 104.09542847,19.49008942 104.09757233,19.49214745 104.09799194,19.49254608 104.10384369,19.48999405 104.10396576,19.48994064 104.10721588,19.48852158 104.10890198,19.48962212 104.110678189934,19.4897098187138 104.110827656505,19.4884544426891 104.103622500001,19.4715483715112</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2289</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.99163231482873</SimpleData>
+		<SimpleData name="dem_std">1.05483037092035</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.068675799818,19.4103921907784 104.07223057489,19.4049285128209 104.051439952652,19.4014307204382 104.04970797881,19.4038277992556 104.050140127502,19.4048872320822 104.059304096729,19.4145686423285 104.068675799818,19.4103921907784</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2290</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.33706822888605</SimpleData>
+		<SimpleData name="dem_std">1.05442958758749</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.081261672898,19.416124188304 104.077769256035,19.404384665029 104.075847440411,19.4030661797079 104.07223057489,19.4049285128209 104.068675799818,19.4103921907784 104.069106725809,19.4163656653848 104.07032013,19.41580009 104.07155609,19.41807556 104.07216644,19.42181015 104.072502086198,19.4285672673943 104.081261672898,19.416124188304</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2291</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.53667664260007</SimpleData>
+		<SimpleData name="dem_std">1.26380626543478</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.095819898998,19.4642832297339 104.102459532971,19.4576287287746 104.10513288878,19.4432769459542 104.100465073341,19.4387016523221 104.068997293673,19.4543660774687 104.06975555,19.45457649 104.07302094,19.45776558 104.07466125,19.4582386 104.07668304,19.46147919 104.08042145,19.46321869 104.081024471219,19.4649758800373 104.095819898998,19.4642832297339</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2292</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.74527086530413</SimpleData>
+		<SimpleData name="dem_std">0.413494018505573</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.068675799818,19.4103921907784 104.059304096729,19.4145686423285 104.059322793597,19.4175107110687 104.06112671,19.41725731 104.06422424,19.41594505 104.06645966,19.41759682 104.06723785,19.41723633 104.06794739,19.41669846 104.06896973,19.41642952 104.069106725809,19.4163656653848 104.068675799818,19.4103921907784</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2293</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">7.39523315429688</SimpleData>
+		<SimpleData name="dem_std">0.713192037413667</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.059304096729,19.4145686423285 104.050140127502,19.4048872320822 104.048127033452,19.4244465890053 104.04885101,19.42487526 104.04888153,19.42477989 104.04904938,19.42395973 104.04923248,19.4230423 104.04975891,19.42157745 104.05045319,19.42016792 104.05131531,19.4193573 104.05245972,19.41892815 104.05388641,19.41871834 104.054039,19.41825294 104.059322793597,19.4175107110687 104.059304096729,19.4145686423285</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2300</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.86880535549588</SimpleData>
+		<SimpleData name="dem_std">2.04627965242755</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.091716264276,19.430617554274 104.096309321955,19.4326813271098 104.106823046034,19.4280763385247 104.106945274092,19.4274379036445 104.103467988468,19.4201328014451 104.092298662318,19.4264107667568 104.091716264276,19.430617554274</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2301</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">7.91486002604167</SimpleData>
+		<SimpleData name="dem_std">1.68209929834809</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.092298662318,19.4264107667568 104.089494896046,19.4188262555007 104.101860416894,19.40476513706 104.106435259714,19.4061504519797 104.103467988468,19.4201328014451 104.092298662318,19.4264107667568</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2303</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">7.06413635253906</SimpleData>
+		<SimpleData name="dem_std">0.880605522767052</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.106945274092,19.4274379036445 104.123949742052,19.4192296105155 104.117336347723,19.4369954613105 104.112182495121,19.4373837503436 104.106823046034,19.4280763385247 104.106945274092,19.4274379036445</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2304</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.98433430989583</SimpleData>
+		<SimpleData name="dem_std">1.58191426409175</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.096309321955,19.4326813271098 104.100465073341,19.4387016523221 104.10513288878,19.4432769459542 104.112182495121,19.4373837503436 104.106823046034,19.4280763385247 104.096309321955,19.4326813271098</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2305</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.83257417900618</SimpleData>
+		<SimpleData name="dem_std">1.31628532204068</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.073084543308,19.4423930910594 104.07316589,19.44299698 104.07572937,19.44752121 104.07510376,19.45075607 104.07190704,19.45075798 104.06736755,19.4507618 104.06604767,19.45183563 104.06448364,19.45311356 104.068997293673,19.4543660774687 104.100465073341,19.4387016523221 104.096309321955,19.4326813271098 104.091716264276,19.430617554274 104.073084543308,19.4423930910594</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2306</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.55825865502451</SimpleData>
+		<SimpleData name="dem_std">1.73076166548503</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.091716264276,19.430617554274 104.092298662318,19.4264107667568 104.089494896046,19.4188262555007 104.081261672898,19.416124188304 104.072502086198,19.4285672673943 104.07258606,19.4302578 104.07189178,19.43353844 104.073084543308,19.4423930910594 104.091716264276,19.430617554274</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2423</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.71999141148159</SimpleData>
+		<SimpleData name="dem_std">1.69840052426959</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.716455729277,18.9102376221324 104.709780196055,18.9140613755091 104.702972558819,18.9071964686749 104.705235115631,18.9041110347314 104.723138941061,18.8943434671961 104.716455729277,18.9102376221324</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2435</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.82595115484193</SimpleData>
+		<SimpleData name="dem_std">1.31377532462478</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.724906935984,18.8925690721446 104.723138941061,18.8943434671961 104.705235115631,18.9041110347314 104.708985805018,18.8753283688432 104.709342442498,18.8750353280163 104.724906935984,18.8925690721446</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2437</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.21537622912177</SimpleData>
+		<SimpleData name="dem_std">1.29291768405394</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.601305715277,19.0007825916166 104.593746702577,18.980761858946 104.602549821449,18.9833564250472 104.608160355001,18.9872456575206 104.607540175621,19.0026694117252 104.601305715277,19.0007825916166</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2438</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.91127807617188</SimpleData>
+		<SimpleData name="dem_std">2.25371296120576</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.593746702577,18.980761858946 104.588056584366,18.9772724224392 104.597531826065,18.9679882477788 104.605707370341,18.9704465727028 104.602549821449,18.9833564250472 104.593746702577,18.980761858946</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2440</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.35224389248207</SimpleData>
+		<SimpleData name="dem_std">2.18891885386937</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.601305715277,19.0007825916166 104.583246203206,18.9987306232575 104.579338534472,19.0028676895672 104.578919001068,19.0073398572646 104.586064513326,19.0158185337635 104.601534416432,19.0139964112218 104.610188308802,19.0057639534627 104.607540175621,19.0026694117252 104.601305715277,19.0007825916166</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2445</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.51343854268392</SimpleData>
+		<SimpleData name="dem_std">1.39732490848708</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.65114933929,18.9437517762341 104.635085465892,18.9461333464422 104.635367931994,18.9303485173692 104.645812274195,18.9195239656842 104.652016955984,18.9428287954262 104.65114933929,18.9437517762341</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2473</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.0764643351237</SimpleData>
+		<SimpleData name="dem_std">1.89717804757397</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.515562769407,19.0585895741333 104.517601133988,19.0591435892243 104.524398368347,19.0458561214783 104.511086470381,19.0366977890899 104.502679282044,19.0391822706427 104.506380183223,19.0487876473727 104.515562769407,19.0585895741333</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2481</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">7.13049427379261</SimpleData>
+		<SimpleData name="dem_std">1.06945297402486</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.545668653105,19.0992321028834 104.549833717445,19.097888176518 104.554341570037,19.1007756572185 104.539981552053,19.1259839615754 104.537072407877,19.1263543410045 104.535088988502,19.125972174774 104.528847330002,19.1150795242627 104.545668653105,19.0992321028834</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2511</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.67938191181905</SimpleData>
+		<SimpleData name="dem_std">1.14386568953426</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.288742936336,19.1630715883799 104.2968118928,19.1428783643471 104.28715517845,19.1423329805073 104.276297893883,19.152474021624 104.285331353671,19.1624319852413 104.288742936336,19.1630715883799</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2512</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.75878862021626</SimpleData>
+		<SimpleData name="dem_std">1.64971953577716</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.295789150091,19.168374435828 104.314363357765,19.1589352192393 104.307209335586,19.1408819986342 104.2968118928,19.1428783643471 104.288742936336,19.1630715883799 104.295789150091,19.168374435828</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2522</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.85967396881621</SimpleData>
+		<SimpleData name="dem_std">1.98445058231873</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.621019888555,18.9673204617627 104.615277164849,18.9593789726908 104.61583918491,18.9437284348945 104.618076139226,18.9414402844977 104.633803909189,18.9474251977269 104.632539343545,18.96648802814 104.621019888555,18.9673204617627</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2526</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.95323083755818</SimpleData>
+		<SimpleData name="dem_std">2.56774359502835</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.616559894611,18.9710678816443 104.605707370341,18.9704465727028 104.597531826065,18.9679882477788 104.597093198835,18.9560983557822 104.606420831101,18.9565305869359 104.615277164849,18.9593789726908 104.621019888555,18.9673204617627 104.616559894611,18.9710678816443</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2527</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.26267941792806</SimpleData>
+		<SimpleData name="dem_std">0.910576064055137</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.616559894611,18.9710678816443 104.605707370341,18.9704465727028 104.602549821449,18.9833564250472 104.608160355001,18.9872456575206 104.614482583282,18.9801936398369 104.616559894611,18.9710678816443</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2771</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.07170646421371</SimpleData>
+		<SimpleData name="dem_std">1.20818346804525</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.873265128748,19.3715112475321 104.871097616777,19.3689227752104 104.879504854137,19.3400079056926 104.880648039136,19.3397981893156 104.893457893026,19.3547575821709 104.890371010295,19.3618035918007 104.876346831456,19.3725945247037 104.873265128748,19.3715112475321</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2852</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.03280131022135</SimpleData>
+		<SimpleData name="dem_std">1.11490287656937</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.180480960806,19.4323090987879 105.180764888515,19.4258660559385 105.189698751438,19.4074008536311 105.194768939442,19.4103997116001 105.209770619852,19.4312497911495 105.200612570883,19.4403871450568 105.192210371624,19.4433226411066 105.180480960806,19.4323090987879</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2853</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.44286425360318</SimpleData>
+		<SimpleData name="dem_std">0.899107096882125</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.169293234468,19.4383724367199 105.163193974192,19.4211363279981 105.180764888515,19.4258660559385 105.180480960806,19.4323090987879 105.169293234468,19.4383724367199</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>2855</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.21451950073242</SimpleData>
+		<SimpleData name="dem_std">0.638624120180827</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.168019541429,19.4395470201805 105.155777288183,19.4342270604279 105.15045780401,19.4447392158417 105.160982491201,19.448687844169 105.167554080536,19.44421763067 105.168019541429,19.4395470201805</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>3173</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.54825281213831</SimpleData>
+		<SimpleData name="dem_std">1.09066107609474</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.109662927344,19.5995282537323 104.112081091335,19.5846364461248 104.105363306895,19.5731149258951 104.088749742062,19.5978150222171 104.109662927344,19.5995282537323</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>3191</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.05621988265241</SimpleData>
+		<SimpleData name="dem_std">1.93700334086599</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.125752073791,19.3551966683979 104.133330615232,19.3619732120468 104.133154841765,19.3712720399503 104.122942823051,19.3809205767827 104.118951640557,19.37858730333 104.108600473151,19.3652051827257 104.125752073791,19.3551966683979</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>3211</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.7755591351053</SimpleData>
+		<SimpleData name="dem_std">1.17115635591873</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.073161916726,19.3847519762294 104.074317965865,19.3866321372671 104.075847440411,19.4030661797079 104.07223057489,19.4049285128209 104.051439952652,19.4014307204382 104.054257418584,19.3853662893291 104.05763573433,19.3833573007685 104.073161916726,19.3847519762294</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>3217</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">7.67380683366642</SimpleData>
+		<SimpleData name="dem_std">1.13193385506792</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.093127980731,19.2943147482432 104.086491851225,19.2959589450354 104.079740668393,19.2889095177651 104.082425090174,19.2777715585874 104.093376874045,19.2717644274842 104.096495743755,19.2773522180451 104.093127980731,19.2943147482432</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>3218</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.3056034897313</SimpleData>
+		<SimpleData name="dem_std">1.04051088181565</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.099362083968,19.2951317454764 104.110972968824,19.3119824758246 104.116171020507,19.3107804163636 104.107957928588,19.2860376826805 104.105110115805,19.2860268934924 104.099362083968,19.2951317454764</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>3219</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.13655783913352</SimpleData>
+		<SimpleData name="dem_std">0.821309955606352</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.119621627291,19.3491721701562 104.115134273875,19.3494554775239 104.112769763773,19.3478567581801 104.112722868987,19.3433657275047 104.122344392116,19.3379637394753 104.119621627291,19.3491721701562</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>3224</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.59513161399148</SimpleData>
+		<SimpleData name="dem_std">0.938776317617368</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.085727656021,19.3122923611544 104.086491851225,19.2959589450354 104.093127980731,19.2943147482432 104.099362083968,19.2951317454764 104.110972968824,19.3119824758246 104.103034758272,19.3175112984734 104.09942891353,19.3191456206568 104.085727656021,19.3122923611544</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>3231</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.29435691833496</SimpleData>
+		<SimpleData name="dem_std">0.948589103927319</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.122617881141,19.3360710878358 104.124355153246,19.3290784767713 104.134351733221,19.3290313970087 104.136272165403,19.3412072467577 104.132716075145,19.3414077794861 104.122793386051,19.3364750821002 104.122617881141,19.3360710878358</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>3232</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">7.3506585984003</SimpleData>
+		<SimpleData name="dem_std">1.38419380455397</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.136272165403,19.3412072467577 104.144217507126,19.344054002738 104.146034205445,19.3377145064216 104.138777069587,19.3260172470406 104.134351733221,19.3290313970087 104.136272165403,19.3412072467577</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>3233</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.81348493987439</SimpleData>
+		<SimpleData name="dem_std">1.15768023359122</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.124355153246,19.3290784767713 104.117480411988,19.3107203732112 104.119281765194,19.3096924298726 104.133870253001,19.3099676464048 104.141632746133,19.3180893048999 104.138777069587,19.3260172470406 104.134351733221,19.3290313970087 104.124355153246,19.3290784767713</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>3301</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.03938293457031</SimpleData>
+		<SimpleData name="dem_std">0.401791357334631</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.333885707044,19.559401129368 104.34540192093,19.549444929029 104.330989030771,19.5495152338435 104.333885707044,19.559401129368</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>3353</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.44597074720595</SimpleData>
+		<SimpleData name="dem_std">1.19981483384913</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.016699093877,18.8248821827474 105.012583596434,18.806127652809 105.012029906902,18.8060799750209 105.011723440463,18.8242929066633 105.016699093877,18.8248821827474</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>3403</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.18583043416341</SimpleData>
+		<SimpleData name="dem_std">1.31180287659722</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.70173405931,18.9278337322167 104.68238050619,18.9318945296566 104.68177028766,18.9357089901492 104.684832915634,18.9414246621448 104.696196567126,18.9443652106578 104.707376741751,18.9416153594954 104.70173405931,18.9278337322167</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>3433</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">8.19176668734164</SimpleData>
+		<SimpleData name="dem_std">1.48318499140381</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.336072900092,19.1287276822673 104.336047912642,19.1275237363268 104.318264278524,19.1150834569742 104.305987216756,19.1258992734471 104.307423265561,19.1403251326042 104.331180377396,19.134042780655 104.336072900092,19.1287276822673</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>3436</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.82362425172484</SimpleData>
+		<SimpleData name="dem_std">1.22386797685685</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.360215895671,19.1173377791477 104.350167539591,19.1113646382524 104.348917632129,19.108098108426 104.359511708289,19.0907647981855 104.363446964486,19.0873273453073 104.375761660394,19.0945094913542 104.37666628379,19.0962258558234 104.365829240872,19.1156463297204 104.361817150356,19.1174447389495 104.360215895671,19.1173377791477</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>3437</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.22190257481166</SimpleData>
+		<SimpleData name="dem_std">1.19155536407761</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.350633356653,19.1378996078682 104.336072900092,19.1287276822673 104.336047912642,19.1275237363268 104.337154419464,19.1255855971876 104.350167539591,19.1113646382524 104.360215895671,19.1173377791477 104.350633356653,19.1378996078682</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>3478</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">7.45046670096261</SimpleData>
+		<SimpleData name="dem_std">1.40170547383172</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.230314592456,19.1161073963585 104.238248324926,19.1246964391296 104.238726893597,19.1220860001192 104.23728192016,19.1146277915383 104.23403931,19.11426544 104.230060607443,19.1145770951027 104.230314592456,19.1161073963585</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>3479</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">8.85728182111468</SimpleData>
+		<SimpleData name="dem_std">1.342710099877</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.238726893597,19.1220860001192 104.248731207457,19.1130039835376 104.24777222,19.112463 104.24755859,19.11265945 104.24123383,19.11450386 104.24066162,19.11436272 104.24052429,19.11441803 104.23871613,19.11478806 104.23728192016,19.1146277915383 104.238726893597,19.1220860001192</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>3480</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.00143650599888</SimpleData>
+		<SimpleData name="dem_std">1.71197572422098</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.23837230677,19.1271255972377 104.249047114175,19.1286546488446 104.257340257058,19.1170882700208 104.25693512,19.11731911 104.25526428,19.11665916 104.25112915,19.11435127 104.25041962,19.11395645 104.248731207457,19.1130039835376 104.238726893597,19.1220860001192 104.238248324926,19.1246964391296 104.23837230677,19.1271255972377</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>3483</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">9.33788523954504</SimpleData>
+		<SimpleData name="dem_std">1.29253594935092</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.335060871502,19.0899681492084 104.335375585572,19.0891416712403 104.335879386156,19.0777237151826 104.33427429,19.0782795 104.33078003,19.08080101 104.31889343,19.08599663 104.318823814904,19.0860800985683 104.335060871502,19.0899681492084</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>3535</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.05722999572754</SimpleData>
+		<SimpleData name="dem_std">0.194608021678457</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.69108185661,19.3001891255699 105.6918335,19.30035019 105.69387817,19.3041687 105.69669342,19.30352592 105.70027161,19.30437088 105.7015152,19.30387878 105.70617676,19.30303764 105.70902252,19.30352783 105.71121979,19.30212402 105.712366066338,19.3028003251427 105.710534543341,19.3004811818618 105.691103731541,19.299944065162 105.69108185661,19.3001891255699</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>3647</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.39625089130704</SimpleData>
+		<SimpleData name="dem_std">1.11674774625071</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.847416546598,19.3684023671297 104.847988977231,19.3673744997633 104.854385622513,19.3643646444111 104.871097616777,19.3689227752104 104.873265128748,19.3715112475321 104.863529475787,19.3874942879615 104.850101495418,19.3824486458156 104.847376906945,19.3692214824516 104.847416546598,19.3684023671297</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>3735</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.25010850694444</SimpleData>
+		<SimpleData name="dem_std">1.00808622388974</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.160974499271,19.4196596915934 105.163193974192,19.4211363279981 105.169293234468,19.4383724367199 105.168019541429,19.4395470201805 105.155777288183,19.4342270604279 105.154864806408,19.4325861670002 105.155420472569,19.424442585769 105.160974499271,19.4196596915934</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>3967</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.30651489257813</SimpleData>
+		<SimpleData name="dem_std">1.27889136077663</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.095711894528,18.7089572384477 105.106714478483,18.7269809186942 105.113691767394,18.7261851723987 105.117316462331,18.7208698988394 105.118815327686,18.7127652740984 105.11666107,18.71363258 105.11489105,18.71356773 105.10853577,18.70888901 105.10562897,18.70325661 105.09968567,18.70371246 105.09669495,18.70489883 105.094703052816,18.7047036545355 105.095711894528,18.7089572384477</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>3991</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.40087890625</SimpleData>
+		<SimpleData name="dem_std">1.13568011636981</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.074472219208,19.3022026505993 104.06727621902,19.3087689655635 104.065270155057,19.3083572528488 104.060956601002,19.2933622702204 104.069337359679,19.2926501856375 104.074472219208,19.3022026505993</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>3992</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.07782717104311</SimpleData>
+		<SimpleData name="dem_std">1.08803732408878</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.06727621902,19.3087689655635 104.082326954995,19.3135089283055 104.072196423114,19.3259556344924 104.064325192982,19.3152472249853 104.064645985548,19.3093820218983 104.065270155057,19.3083572528488 104.06727621902,19.3087689655635</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>3996</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.26887215508355</SimpleData>
+		<SimpleData name="dem_std">1.37262576690497</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.074472219208,19.3022026505993 104.084108114025,19.3126767365295 104.085727656021,19.3122923611544 104.086491851225,19.2959589450354 104.079740668393,19.2889095177651 104.069337359679,19.2926501856375 104.074472219208,19.3022026505993</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>3997</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.43210112742889</SimpleData>
+		<SimpleData name="dem_std">1.69288779144828</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.04399360496,19.3543264161783 104.026587967564,19.3520067381663 104.023965217027,19.3657254885517 104.032228936986,19.3687809710225 104.035781639128,19.3677519288332 104.044084965687,19.3596527765552 104.045045447811,19.3562827583687 104.04399360496,19.3543264161783</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>4025</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.18902934681286</SimpleData>
+		<SimpleData name="dem_std">0.738669092854855</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.088653571869,19.3551548357589 104.082256839097,19.3517368444618 104.072782973468,19.3664973801412 104.077082086949,19.3748475077091 104.088653571869,19.3551548357589</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>4071</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.57325222067637</SimpleData>
+		<SimpleData name="dem_std">1.36482205261451</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.96672810173,18.8452929520583 104.971053224331,18.8400671243907 104.937856743428,18.8270043895899 104.937536064685,18.8271399403221 104.942964607623,18.8513839462682 104.955365297662,18.8511410501128 104.96672810173,18.8452929520583</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>4100</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.15426330566406</SimpleData>
+		<SimpleData name="dem_std">0.857330710883373</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.351027882921,19.1430629411158 104.350641655822,19.1379170321355 104.369028215762,19.1341412862076 104.372079978876,19.1364518624933 104.364664303981,19.1478915558116 104.36415340824,19.1480122026117 104.35625350344,19.1472897401684 104.351027882921,19.1430629411158</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>4197</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.22924133300781</SimpleData>
+		<SimpleData name="dem_std">1.2651930427632</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.939392578765,19.3245585497736 104.923750669325,19.3245322614605 104.911034335926,19.3148117488318 104.913904814798,19.312060036628 104.935039030436,19.310470311356 104.939392578765,19.3245585497736</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>4348</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.11616020202637</SimpleData>
+		<SimpleData name="dem_std">0.81861838815774</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.048819258793,19.8821868429589 105.028063624452,19.8794228680629 105.028557470836,19.8858885737214 105.042819740014,19.8898126736207 105.048819258793,19.8821868429589</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>4350</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.09522662246436</SimpleData>
+		<SimpleData name="dem_std">1.23447920313333</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.042819740014,19.8898126736207 105.043341508055,19.9015382910808 105.036179945348,19.9070434665269 105.029848602179,19.9080209617049 105.021166192863,19.896905251397 105.028557470836,19.8858885737214 105.042819740014,19.8898126736207</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>4416</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.75755878523284</SimpleData>
+		<SimpleData name="dem_std">1.39991005990815</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.217205217649,18.6792341867275 105.208775705773,18.6613276253784 105.210713647332,18.6543004119297 105.231984439146,18.6687955297157 105.224371131798,18.680976146976 105.217205217649,18.6792341867275</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>4419</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.69198481241862</SimpleData>
+		<SimpleData name="dem_std">1.39279153646945</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.217205217649,18.6792341867275 105.212204138373,18.6853098732156 105.196831558792,18.6783467852688 105.1949059899,18.6708828038568 105.208775705773,18.6613276253784 105.217205217649,18.6792341867275</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>4424</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.23124538323818</SimpleData>
+		<SimpleData name="dem_std">1.00982596301197</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.074545045431,19.3471558623837 104.080976765584,19.3503190115052 104.091507659642,19.3327661559797 104.070219702695,19.332357898192 104.067272869402,19.3355294935655 104.074545045431,19.3471558623837</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>4426</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">7.14681288775276</SimpleData>
+		<SimpleData name="dem_std">1.26180650303497</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.054999643242,19.353625149305 104.045045447811,19.3562827583687 104.044084965687,19.3596527765552 104.056953611578,19.3715158943116 104.064607980789,19.361506108177 104.064233983643,19.359671067598 104.054999643242,19.353625149305</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>4456</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.21938290803329</SimpleData>
+		<SimpleData name="dem_std">1.64518713726209</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.077134528268,19.3751726185422 104.092529287013,19.372067923786 104.093771658377,19.3796131884044 104.073432686856,19.3842300212844 104.077134528268,19.3751726185422</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>4458</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.68585337763247</SimpleData>
+		<SimpleData name="dem_std">1.09883492491567</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.073432686856,19.3842300212844 104.073161916726,19.3847519762294 104.074317965865,19.3866321372671 104.095516934304,19.3901469632883 104.096314531413,19.3884705707072 104.096961332706,19.3863620851022 104.093771658377,19.3796131884044 104.073432686856,19.3842300212844</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>4460</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.86036044034091</SimpleData>
+		<SimpleData name="dem_std">1.23569936822349</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.077134528268,19.3751726185422 104.077082086949,19.3748475077091 104.072782973468,19.3664973801412 104.064607980789,19.361506108177 104.056953611578,19.3715158943116 104.05763573433,19.3833573007685 104.073161916726,19.3847519762294 104.073432686856,19.3842300212844 104.077134528268,19.3751726185422</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>4531</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.0795371315696</SimpleData>
+		<SimpleData name="dem_std">1.114783777764</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.333220711069,19.142050926931 104.331180377396,19.134042780655 104.307423265561,19.1403251326042 104.307209335586,19.1408819986342 104.314363357765,19.1589352192393 104.322782015641,19.1654171405119 104.330050248437,19.1636566300364 104.333220711069,19.142050926931</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>4532</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">7.1955302845348</SimpleData>
+		<SimpleData name="dem_std">0.865252963680182</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.346734259035,19.1466445677933 104.351027882921,19.1430629411158 104.350641655822,19.1379170321355 104.350633356653,19.1378996078682 104.336072900092,19.1287276822673 104.331180377396,19.134042780655 104.333220711069,19.142050926931 104.346734259035,19.1466445677933</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>4544</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.26603190104167</SimpleData>
+		<SimpleData name="dem_std">0.517552956902419</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.757134226805,19.2849332344663 105.751231707188,19.2855845739484 105.74915458842,19.2961747004024 105.756709415793,19.3039848937605 105.75740051,19.30205154 105.75998688,19.30086136 105.76055908,19.29823494 105.76370239,19.2974987 105.764154903511,19.2962675414695 105.757134226805,19.2849332344663</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>4549</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.06707377373418</SimpleData>
+		<SimpleData name="dem_std">0.406518761042354</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>105.781413133431,19.2957738491148 105.78302002,19.29622078 105.79030609,19.29736328 105.80107117,19.30200958 105.80542755,19.28669167 105.80336761,19.28596878 105.80251312,19.27960968 105.80363464,19.27743721 105.80570984,19.27750587 105.80640411,19.27367783 105.8046875,19.27329826 105.80273438,19.27597809 105.80169678,19.27604675 105.79837799,19.27398872 105.79799652,19.27278137 105.79649353,19.27272415 105.79497528,19.27152824 105.79216766,19.27178001 105.79090118,19.2727356 105.79075623,19.27563286 105.78796387,19.27589607 105.787024028897,19.2756149299572 105.781413133431,19.2957738491148</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>4587</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.82913985906863</SimpleData>
+		<SimpleData name="dem_std">1.54535215272951</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.820480660993,19.4263616067751 104.79251133154,19.4178477804118 104.793267398149,19.415665672382 104.810169291164,19.4071877988884 104.821747607051,19.4126261607445 104.82170900523,19.4256815973222 104.820480660993,19.4263616067751</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>4894</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">7.06710074288504</SimpleData>
+		<SimpleData name="dem_std">0.970208435653605</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.0535355754,19.3344217353905 104.045252542582,19.3270433677318 104.044173345725,19.3253417070571 104.044277063909,19.3246910595529 104.050247901016,19.3146879834577 104.057652701472,19.3198762916818 104.06217118748,19.3351860264641 104.0535355754,19.3344217353905</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>4896</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.86797607421875</SimpleData>
+		<SimpleData name="dem_std">1.05645335679244</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.0535355754,19.3344217353905 104.041786214502,19.3452542155963 104.035222634403,19.3412350483263 104.035333341282,19.3409538777168 104.045252542582,19.3270433677318 104.0535355754,19.3344217353905</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>4899</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.76200612386068</SimpleData>
+		<SimpleData name="dem_std">0.754017756343454</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.06217118748,19.3351860264641 104.063061509981,19.3355890243685 104.067272869402,19.3355294935655 104.070219702695,19.332357898192 104.072196423114,19.3259556344924 104.064325192982,19.3152472249853 104.057652701472,19.3198762916818 104.06217118748,19.3351860264641</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>4900</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.56742858886719</SimpleData>
+		<SimpleData name="dem_std">1.3207860672571</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.050247901016,19.3146879834577 104.050190243695,19.3136922152019 104.064645985548,19.3093820218983 104.064325192982,19.3152472249853 104.057652701472,19.3198762916818 104.050247901016,19.3146879834577</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>4901</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">7.03770083472842</SimpleData>
+		<SimpleData name="dem_std">1.12396056437167</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.0535355754,19.3344217353905 104.041786214502,19.3452542155963 104.04399360496,19.3543264161783 104.045045447811,19.3562827583687 104.054999643242,19.353625149305 104.063061509981,19.3355890243685 104.06217118748,19.3351860264641 104.0535355754,19.3344217353905</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>4905</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.03485907882941</SimpleData>
+		<SimpleData name="dem_std">0.599394614676701</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.078926909215,19.2483171473779 104.069147336858,19.2671991995803 104.07132426948,19.2710734527302 104.082425090174,19.2777715585874 104.093376874045,19.2717644274842 104.093848626076,19.2707937413017 104.080974304341,19.2500013579901 104.078926909215,19.2483171473779</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>4908</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.47376881475034</SimpleData>
+		<SimpleData name="dem_std">0.703130684746189</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.103459174407,19.2128580069052 104.10136414,19.21522713 104.10100555,19.21563339 104.10102081,19.21789742 104.09871674,19.21942711 104.09680176,19.22351646 104.09560394,19.22430038 104.09528351,19.22735405 104.09382629,19.22957993 104.08847809,19.23294067 104.08522034,19.2334938 104.084198,19.23394966 104.08343506,19.23448181 104.08264923,19.23682594 104.07796478,19.23836517 104.07598114,19.24194527 104.074877313728,19.2425502226549 104.078312137024,19.2466092338361 104.099553285576,19.2379048282201 104.103459174407,19.2128580069052</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>4925</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.67604603486903</SimpleData>
+		<SimpleData name="dem_std">1.44004706455889</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.808490152288,19.4325254126461 104.795802704738,19.4289212614357 104.791516679718,19.4189206675794 104.79251133154,19.4178477804118 104.820480660993,19.4263616067751 104.819739580068,19.4276148940336 104.808490152288,19.4325254126461</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>4928</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.82882017247817</SimpleData>
+		<SimpleData name="dem_std">0.983055410383739</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.825904089707,19.4035535581392 104.827234714302,19.4062585222224 104.83657668121,19.4050399142149 104.843279627553,19.3982778614668 104.842947030266,19.3961148261451 104.823990170388,19.3879612758933 104.825904089707,19.4035535581392</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+  <Placemark>
+	<name>4930</name>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#test">
+		<SimpleData name="dem_mean">6.14271545410156</SimpleData>
+		<SimpleData name="dem_std">1.79918823280005</SimpleData>
+	</SchemaData></ExtendedData>
+      <Polygon><outerBoundaryIs><LinearRing><coordinates>104.813546684764,19.3969057398593 104.810461281869,19.3977800289557 104.810169291164,19.4071877988884 104.821747607051,19.4126261607445 104.827234714302,19.4062585222224 104.825904089707,19.4035535581392 104.813546684764,19.3969057398593</coordinates></LinearRing></outerBoundaryIs></Polygon>
+  </Placemark>
+</Folder>
+</Document></kml>
